@@ -1,0 +1,1201 @@
+ERROR [main] portico.lrc: federation exists: CashdeskCilentFederation
+org.portico.lrc.compat.JFederationExecutionAlreadyExists: federation exists: CashdeskCilentFederation
+	at org.portico.bindings.jgroups.LrcConnection.createFederation(LrcConnection.java:163)
+	at org.portico.lrc.services.federation.handlers.outgoing.CreateFederationHandler.process(CreateFederationHandler.java:74)
+	at org.portico.utils.messaging.MessageSink.process(MessageSink.java:187)
+	at org.portico.impl.hla13.Impl13Helper.processMessage(Impl13Helper.java:123)
+	at org.portico.impl.hla13.Rti13Ambassador.processMessage(Rti13Ambassador.java:5822)
+	at org.portico.impl.hla13.Rti13Ambassador.createFederationExecution(Rti13Ambassador.java:194)
+	at hla.cashdeskClient.client.ClientFederate.runFederate(ClientFederate.java:35)
+	at hla.cashdeskClient.client.ClientFederate.main(ClientFederate.java:189)
+ERROR [main] portico.lrc: FAILURE Regiser sync point [ReadyToRun] by [ClientFederate]: already registered
+ERROR [main] portico.lrc: FAILURE Register sync point [ReadyToRun] by [ClientFederate]: label already registered
+ERROR [main] portico.lrc: federation exists: CashdeskCilentFederation
+org.portico.lrc.compat.JFederationExecutionAlreadyExists: federation exists: CashdeskCilentFederation
+	at org.portico.bindings.jgroups.LrcConnection.createFederation(LrcConnection.java:163)
+	at org.portico.lrc.services.federation.handlers.outgoing.CreateFederationHandler.process(CreateFederationHandler.java:74)
+	at org.portico.utils.messaging.MessageSink.process(MessageSink.java:187)
+	at org.portico.impl.hla13.Impl13Helper.processMessage(Impl13Helper.java:123)
+	at org.portico.impl.hla13.Rti13Ambassador.processMessage(Rti13Ambassador.java:5822)
+	at org.portico.impl.hla13.Rti13Ambassador.createFederationExecution(Rti13Ambassador.java:194)
+	at hla.cashdeskClient.queue.QueueFederate.runFederate(QueueFederate.java:35)
+	at hla.cashdeskClient.queue.QueueFederate.main(QueueFederate.java:193)
+ERROR [main] portico.lrc: FAILURE Register sync point [ReadyToRun] by [QueueFederate]: already announced
+ERROR [main] portico.lrc: federation exists: CashdeskCilentFederation
+org.portico.lrc.compat.JFederationExecutionAlreadyExists: federation exists: CashdeskCilentFederation
+	at org.portico.bindings.jgroups.LrcConnection.createFederation(LrcConnection.java:163)
+	at org.portico.lrc.services.federation.handlers.outgoing.CreateFederationHandler.process(CreateFederationHandler.java:74)
+	at org.portico.utils.messaging.MessageSink.process(MessageSink.java:187)
+	at org.portico.impl.hla13.Impl13Helper.processMessage(Impl13Helper.java:123)
+	at org.portico.impl.hla13.Rti13Ambassador.processMessage(Rti13Ambassador.java:5822)
+	at org.portico.impl.hla13.Rti13Ambassador.createFederationExecution(Rti13Ambassador.java:194)
+	at hla.cashdeskClient.client.ClientFederate.runFederate(ClientFederate.java:35)
+	at hla.cashdeskClient.client.ClientFederate.main(ClientFederate.java:189)
+ERROR [main] portico.lrc: FAILURE Regiser sync point [ReadyToRun] by [ClientFederate]: already registered
+ERROR [main] portico.lrc: FAILURE Register sync point [ReadyToRun] by [ClientFederate]: label already registered
+ERROR [main] portico.lrc: federation exists: CashdeskCilentFederation
+org.portico.lrc.compat.JFederationExecutionAlreadyExists: federation exists: CashdeskCilentFederation
+	at org.portico.bindings.jgroups.LrcConnection.createFederation(LrcConnection.java:163)
+	at org.portico.lrc.services.federation.handlers.outgoing.CreateFederationHandler.process(CreateFederationHandler.java:74)
+	at org.portico.utils.messaging.MessageSink.process(MessageSink.java:187)
+	at org.portico.impl.hla13.Impl13Helper.processMessage(Impl13Helper.java:123)
+	at org.portico.impl.hla13.Rti13Ambassador.processMessage(Rti13Ambassador.java:5822)
+	at org.portico.impl.hla13.Rti13Ambassador.createFederationExecution(Rti13Ambassador.java:194)
+	at hla.cashdeskClient.client.ClientFederate.runFederate(ClientFederate.java:35)
+	at hla.cashdeskClient.client.ClientFederate.main(ClientFederate.java:189)
+ERROR [main] portico.lrc: FAILURE Regiser sync point [ReadyToRun] by [ClientFederate]: already registered
+ERROR [main] portico.lrc: FAILURE Register sync point [ReadyToRun] by [ClientFederate]: label already registered
+ERROR [main] portico.lrc: federation exists: CashdeskCilentFederation
+org.portico.lrc.compat.JFederationExecutionAlreadyExists: federation exists: CashdeskCilentFederation
+	at org.portico.bindings.jgroups.LrcConnection.createFederation(LrcConnection.java:163)
+	at org.portico.lrc.services.federation.handlers.outgoing.CreateFederationHandler.process(CreateFederationHandler.java:74)
+	at org.portico.utils.messaging.MessageSink.process(MessageSink.java:187)
+	at org.portico.impl.hla13.Impl13Helper.processMessage(Impl13Helper.java:123)
+	at org.portico.impl.hla13.Rti13Ambassador.processMessage(Rti13Ambassador.java:5822)
+	at org.portico.impl.hla13.Rti13Ambassador.createFederationExecution(Rti13Ambassador.java:194)
+	at hla.cashdeskClient.queue.QueueFederate.runFederate(QueueFederate.java:39)
+	at hla.cashdeskClient.queue.QueueFederate.main(QueueFederate.java:220)
+ERROR [main] portico.lrc: FAILURE Regiser sync point [ReadyToRun] by [QueueFederate]: already registered
+ERROR [main] portico.lrc: FAILURE Register sync point [ReadyToRun] by [QueueFederate]: label already registered
+ERROR [main] portico.lrc: federation exists: CashdeskCilentFederation
+org.portico.lrc.compat.JFederationExecutionAlreadyExists: federation exists: CashdeskCilentFederation
+	at org.portico.bindings.jgroups.LrcConnection.createFederation(LrcConnection.java:163)
+	at org.portico.lrc.services.federation.handlers.outgoing.CreateFederationHandler.process(CreateFederationHandler.java:74)
+	at org.portico.utils.messaging.MessageSink.process(MessageSink.java:187)
+	at org.portico.impl.hla13.Impl13Helper.processMessage(Impl13Helper.java:123)
+	at org.portico.impl.hla13.Rti13Ambassador.processMessage(Rti13Ambassador.java:5822)
+	at org.portico.impl.hla13.Rti13Ambassador.createFederationExecution(Rti13Ambassador.java:194)
+	at hla.cashdeskClient.client.ClientFederate.runFederate(ClientFederate.java:35)
+	at hla.cashdeskClient.client.ClientFederate.main(ClientFederate.java:189)
+ERROR [main] portico.lrc: FAILURE Register sync point [ReadyToRun] by [ClientFederate]: already announced
+ERROR [main] portico.lrc: Time [0.0] has already passed (lbts:1.0)
+org.portico.lrc.compat.JInvalidFederationTime: Time [0.0] has already passed (lbts:1.0)
+	at org.portico.lrc.LRCState.checkValidTime(LRCState.java:349)
+	at org.portico.lrc.services.object.handlers.outgoing.SendInteractionHandler.process(SendInteractionHandler.java:82)
+	at org.portico.utils.messaging.MessageSink.process(MessageSink.java:187)
+	at org.portico.impl.hla13.Impl13Helper.processMessage(Impl13Helper.java:123)
+	at org.portico.impl.hla13.Rti13Ambassador.processMessage(Rti13Ambassador.java:5822)
+	at org.portico.impl.hla13.Rti13Ambassador.sendInteraction(Rti13Ambassador.java:2127)
+	at hla.cashdeskClient.queue.QueueFederate.sendInteractionNajkrotszaKolejka(QueueFederate.java:192)
+	at hla.cashdeskClient.queue.QueueFederate.runFederate(QueueFederate.java:83)
+	at hla.cashdeskClient.queue.QueueFederate.main(QueueFederate.java:220)
+ERROR [main] portico.lrc: federation exists: CashdeskCilentFederation
+org.portico.lrc.compat.JFederationExecutionAlreadyExists: federation exists: CashdeskCilentFederation
+	at org.portico.bindings.jgroups.LrcConnection.createFederation(LrcConnection.java:163)
+	at org.portico.lrc.services.federation.handlers.outgoing.CreateFederationHandler.process(CreateFederationHandler.java:74)
+	at org.portico.utils.messaging.MessageSink.process(MessageSink.java:187)
+	at org.portico.impl.hla13.Impl13Helper.processMessage(Impl13Helper.java:123)
+	at org.portico.impl.hla13.Rti13Ambassador.processMessage(Rti13Ambassador.java:5822)
+	at org.portico.impl.hla13.Rti13Ambassador.createFederationExecution(Rti13Ambassador.java:194)
+	at hla.cashdeskClient.client.ClientFederate.runFederate(ClientFederate.java:35)
+	at hla.cashdeskClient.client.ClientFederate.main(ClientFederate.java:189)
+ERROR [main] portico.lrc: FAILURE Regiser sync point [ReadyToRun] by [ClientFederate]: already registered
+ERROR [main] portico.lrc: FAILURE Register sync point [ReadyToRun] by [ClientFederate]: label already registered
+ERROR [main] portico.lrc: federation exists: CashdeskCilentFederation
+org.portico.lrc.compat.JFederationExecutionAlreadyExists: federation exists: CashdeskCilentFederation
+	at org.portico.bindings.jgroups.LrcConnection.createFederation(LrcConnection.java:163)
+	at org.portico.lrc.services.federation.handlers.outgoing.CreateFederationHandler.process(CreateFederationHandler.java:74)
+	at org.portico.utils.messaging.MessageSink.process(MessageSink.java:187)
+	at org.portico.impl.hla13.Impl13Helper.processMessage(Impl13Helper.java:123)
+	at org.portico.impl.hla13.Rti13Ambassador.processMessage(Rti13Ambassador.java:5822)
+	at org.portico.impl.hla13.Rti13Ambassador.createFederationExecution(Rti13Ambassador.java:194)
+	at hla.cashdeskClient.client.ClientFederate.runFederate(ClientFederate.java:35)
+	at hla.cashdeskClient.client.ClientFederate.main(ClientFederate.java:189)
+ERROR [main] portico.lrc: FAILURE Regiser sync point [ReadyToRun] by [ClientFederate]: already registered
+ERROR [main] portico.lrc: FAILURE Register sync point [ReadyToRun] by [ClientFederate]: label already registered
+ERROR [main] portico.lrc: federation exists: CashdeskCilentFederation
+org.portico.lrc.compat.JFederationExecutionAlreadyExists: federation exists: CashdeskCilentFederation
+	at org.portico.bindings.jgroups.LrcConnection.createFederation(LrcConnection.java:163)
+	at org.portico.lrc.services.federation.handlers.outgoing.CreateFederationHandler.process(CreateFederationHandler.java:74)
+	at org.portico.utils.messaging.MessageSink.process(MessageSink.java:187)
+	at org.portico.impl.hla13.Impl13Helper.processMessage(Impl13Helper.java:123)
+	at org.portico.impl.hla13.Rti13Ambassador.processMessage(Rti13Ambassador.java:5822)
+	at org.portico.impl.hla13.Rti13Ambassador.createFederationExecution(Rti13Ambassador.java:194)
+	at hla.cashdeskClient.cashdesk.CashdeskFederate.runFederate(CashdeskFederate.java:34)
+	at hla.cashdeskClient.cashdesk.CashdeskFederate.main(CashdeskFederate.java:177)
+ERROR [main] portico.lrc: FAILURE Regiser sync point [ReadyToRun] by [CashdeskFederate]: already registered
+ERROR [main] portico.lrc: FAILURE Register sync point [ReadyToRun] by [CashdeskFederate]: label already registered
+ERROR [main] portico.lrc: FAILURE Exception encountered while processing incoming message: Index: 0, Size: 0
+java.lang.IndexOutOfBoundsException: Index: 0, Size: 0
+	at java.util.LinkedList.checkElementIndex(Unknown Source)
+	at java.util.LinkedList.set(Unknown Source)
+	at hla.cashdeskClient.cashdesk.CashdeskAmbassador.receiveInteraction(CashdeskAmbassador.java:111)
+	at org.portico.impl.hla13.handlers.ReceiveInteractionCallbackHandler.process(ReceiveInteractionCallbackHandler.java:90)
+	at org.portico.utils.messaging.MessageChain.process(MessageChain.java:78)
+	at org.portico.utils.messaging.MessageSink.process(MessageSink.java:187)
+	at org.portico.lrc.LRC.tickProcess(LRC.java:641)
+	at org.portico.lrc.LRC.tickUntilEmpty(LRC.java:469)
+	at org.portico.lrc.LRC.tick(LRC.java:433)
+	at org.portico.impl.hla13.Impl13Helper.tick(Impl13Helper.java:130)
+	at org.portico.impl.hla13.Rti13Ambassador.tick(Rti13Ambassador.java:5781)
+	at hla.cashdeskClient.cashdesk.CashdeskFederate.advanceTime(CashdeskFederate.java:171)
+	at hla.cashdeskClient.cashdesk.CashdeskFederate.runFederate(CashdeskFederate.java:77)
+	at hla.cashdeskClient.cashdesk.CashdeskFederate.main(CashdeskFederate.java:177)
+ERROR [main] portico.lrc: FAILURE Exception encountered while processing incoming message: Index: 1, Size: 0
+java.lang.IndexOutOfBoundsException: Index: 1, Size: 0
+	at java.util.LinkedList.checkElementIndex(Unknown Source)
+	at java.util.LinkedList.set(Unknown Source)
+	at hla.cashdeskClient.cashdesk.CashdeskAmbassador.receiveInteraction(CashdeskAmbassador.java:111)
+	at org.portico.impl.hla13.handlers.ReceiveInteractionCallbackHandler.process(ReceiveInteractionCallbackHandler.java:90)
+	at org.portico.utils.messaging.MessageChain.process(MessageChain.java:78)
+	at org.portico.utils.messaging.MessageSink.process(MessageSink.java:187)
+	at org.portico.lrc.LRC.tickProcess(LRC.java:641)
+	at org.portico.lrc.LRC.tickUntilEmpty(LRC.java:469)
+	at org.portico.lrc.LRC.tick(LRC.java:433)
+	at org.portico.impl.hla13.Impl13Helper.tick(Impl13Helper.java:130)
+	at org.portico.impl.hla13.Rti13Ambassador.tick(Rti13Ambassador.java:5781)
+	at hla.cashdeskClient.cashdesk.CashdeskFederate.advanceTime(CashdeskFederate.java:171)
+	at hla.cashdeskClient.cashdesk.CashdeskFederate.runFederate(CashdeskFederate.java:77)
+	at hla.cashdeskClient.cashdesk.CashdeskFederate.main(CashdeskFederate.java:177)
+ERROR [main] portico.lrc: federation exists: CashdeskCilentFederation
+org.portico.lrc.compat.JFederationExecutionAlreadyExists: federation exists: CashdeskCilentFederation
+	at org.portico.bindings.jgroups.LrcConnection.createFederation(LrcConnection.java:163)
+	at org.portico.lrc.services.federation.handlers.outgoing.CreateFederationHandler.process(CreateFederationHandler.java:74)
+	at org.portico.utils.messaging.MessageSink.process(MessageSink.java:187)
+	at org.portico.impl.hla13.Impl13Helper.processMessage(Impl13Helper.java:123)
+	at org.portico.impl.hla13.Rti13Ambassador.processMessage(Rti13Ambassador.java:5822)
+	at org.portico.impl.hla13.Rti13Ambassador.createFederationExecution(Rti13Ambassador.java:194)
+	at hla.cashdeskClient.cashdesk.CashdeskFederate.runFederate(CashdeskFederate.java:34)
+	at hla.cashdeskClient.cashdesk.CashdeskFederate.main(CashdeskFederate.java:177)
+ERROR [main] portico.lrc: federate name in use: CashdeskFederate
+org.portico.lrc.compat.JFederateAlreadyExecutionMember: federate name in use: CashdeskFederate
+	at org.portico.bindings.jgroups.LrcConnection.joinFederation(LrcConnection.java:260)
+	at org.portico.lrc.services.federation.handlers.outgoing.JoinFederationHandler.process(JoinFederationHandler.java:92)
+	at org.portico.utils.messaging.MessageSink.process(MessageSink.java:187)
+	at org.portico.impl.hla13.Impl13Helper.processMessage(Impl13Helper.java:123)
+	at org.portico.impl.hla13.Rti13Ambassador.processMessage(Rti13Ambassador.java:5822)
+	at org.portico.impl.hla13.Rti13Ambassador.joinFederationExecution(Rti13Ambassador.java:321)
+	at hla.cashdeskClient.cashdesk.CashdeskFederate.runFederate(CashdeskFederate.java:48)
+	at hla.cashdeskClient.cashdesk.CashdeskFederate.main(CashdeskFederate.java:177)
+ERROR [main] portico.lrc: federation exists: CashdeskCilentFederation
+org.portico.lrc.compat.JFederationExecutionAlreadyExists: federation exists: CashdeskCilentFederation
+	at org.portico.bindings.jgroups.LrcConnection.createFederation(LrcConnection.java:163)
+	at org.portico.lrc.services.federation.handlers.outgoing.CreateFederationHandler.process(CreateFederationHandler.java:74)
+	at org.portico.utils.messaging.MessageSink.process(MessageSink.java:187)
+	at org.portico.impl.hla13.Impl13Helper.processMessage(Impl13Helper.java:123)
+	at org.portico.impl.hla13.Rti13Ambassador.processMessage(Rti13Ambassador.java:5822)
+	at org.portico.impl.hla13.Rti13Ambassador.createFederationExecution(Rti13Ambassador.java:194)
+	at hla.cashdeskClient.queue.QueueFederate.runFederate(QueueFederate.java:38)
+	at hla.cashdeskClient.queue.QueueFederate.main(QueueFederate.java:245)
+ERROR [main] portico.lrc: federation exists: CashdeskCilentFederation
+org.portico.lrc.compat.JFederationExecutionAlreadyExists: federation exists: CashdeskCilentFederation
+	at org.portico.bindings.jgroups.LrcConnection.createFederation(LrcConnection.java:163)
+	at org.portico.lrc.services.federation.handlers.outgoing.CreateFederationHandler.process(CreateFederationHandler.java:74)
+	at org.portico.utils.messaging.MessageSink.process(MessageSink.java:187)
+	at org.portico.impl.hla13.Impl13Helper.processMessage(Impl13Helper.java:123)
+	at org.portico.impl.hla13.Rti13Ambassador.processMessage(Rti13Ambassador.java:5822)
+	at org.portico.impl.hla13.Rti13Ambassador.createFederationExecution(Rti13Ambassador.java:194)
+	at hla.cashdeskClient.client.ClientFederate.runFederate(ClientFederate.java:35)
+	at hla.cashdeskClient.client.ClientFederate.main(ClientFederate.java:189)
+ERROR [main] portico.lrc: FAILURE Regiser sync point [ReadyToRun] by [ClientFederate]: already registered
+ERROR [main] portico.lrc: FAILURE Register sync point [ReadyToRun] by [ClientFederate]: label already registered
+ERROR [main] portico.lrc: federation exists: CashdeskCilentFederation
+org.portico.lrc.compat.JFederationExecutionAlreadyExists: federation exists: CashdeskCilentFederation
+	at org.portico.bindings.jgroups.LrcConnection.createFederation(LrcConnection.java:163)
+	at org.portico.lrc.services.federation.handlers.outgoing.CreateFederationHandler.process(CreateFederationHandler.java:74)
+	at org.portico.utils.messaging.MessageSink.process(MessageSink.java:187)
+	at org.portico.impl.hla13.Impl13Helper.processMessage(Impl13Helper.java:123)
+	at org.portico.impl.hla13.Rti13Ambassador.processMessage(Rti13Ambassador.java:5822)
+	at org.portico.impl.hla13.Rti13Ambassador.createFederationExecution(Rti13Ambassador.java:194)
+	at hla.cashdeskClient.cashdesk.CashdeskFederate.runFederate(CashdeskFederate.java:34)
+	at hla.cashdeskClient.cashdesk.CashdeskFederate.main(CashdeskFederate.java:177)
+ERROR [main] portico.lrc: FAILURE Regiser sync point [ReadyToRun] by [CashdeskFederate]: already registered
+ERROR [main] portico.lrc: FAILURE Register sync point [ReadyToRun] by [CashdeskFederate]: label already registered
+ERROR [main] portico.lrc: FAILURE Exception encountered while processing incoming message: Index: 0, Size: 0
+java.lang.IndexOutOfBoundsException: Index: 0, Size: 0
+	at java.util.LinkedList.checkElementIndex(Unknown Source)
+	at java.util.LinkedList.set(Unknown Source)
+	at hla.cashdeskClient.cashdesk.CashdeskAmbassador.receiveInteraction(CashdeskAmbassador.java:111)
+	at org.portico.impl.hla13.handlers.ReceiveInteractionCallbackHandler.process(ReceiveInteractionCallbackHandler.java:90)
+	at org.portico.utils.messaging.MessageChain.process(MessageChain.java:78)
+	at org.portico.utils.messaging.MessageSink.process(MessageSink.java:187)
+	at org.portico.lrc.LRC.tickProcess(LRC.java:641)
+	at org.portico.lrc.LRC.tickUntilEmpty(LRC.java:469)
+	at org.portico.lrc.LRC.tick(LRC.java:433)
+	at org.portico.impl.hla13.Impl13Helper.tick(Impl13Helper.java:130)
+	at org.portico.impl.hla13.Rti13Ambassador.tick(Rti13Ambassador.java:5781)
+	at hla.cashdeskClient.cashdesk.CashdeskFederate.advanceTime(CashdeskFederate.java:171)
+	at hla.cashdeskClient.cashdesk.CashdeskFederate.runFederate(CashdeskFederate.java:77)
+	at hla.cashdeskClient.cashdesk.CashdeskFederate.main(CashdeskFederate.java:177)
+ERROR [main] portico.lrc: FAILURE Exception encountered while processing incoming message: Index: 1, Size: 0
+java.lang.IndexOutOfBoundsException: Index: 1, Size: 0
+	at java.util.LinkedList.checkElementIndex(Unknown Source)
+	at java.util.LinkedList.set(Unknown Source)
+	at hla.cashdeskClient.cashdesk.CashdeskAmbassador.receiveInteraction(CashdeskAmbassador.java:111)
+	at org.portico.impl.hla13.handlers.ReceiveInteractionCallbackHandler.process(ReceiveInteractionCallbackHandler.java:90)
+	at org.portico.utils.messaging.MessageChain.process(MessageChain.java:78)
+	at org.portico.utils.messaging.MessageSink.process(MessageSink.java:187)
+	at org.portico.lrc.LRC.tickProcess(LRC.java:641)
+	at org.portico.lrc.LRC.tickUntilEmpty(LRC.java:469)
+	at org.portico.lrc.LRC.tick(LRC.java:433)
+	at org.portico.impl.hla13.Impl13Helper.tick(Impl13Helper.java:130)
+	at org.portico.impl.hla13.Rti13Ambassador.tick(Rti13Ambassador.java:5781)
+	at hla.cashdeskClient.cashdesk.CashdeskFederate.advanceTime(CashdeskFederate.java:171)
+	at hla.cashdeskClient.cashdesk.CashdeskFederate.runFederate(CashdeskFederate.java:77)
+	at hla.cashdeskClient.cashdesk.CashdeskFederate.main(CashdeskFederate.java:177)
+ERROR [main] portico.lrc: federation exists: CashdeskCilentFederation
+org.portico.lrc.compat.JFederationExecutionAlreadyExists: federation exists: CashdeskCilentFederation
+	at org.portico.bindings.jgroups.LrcConnection.createFederation(LrcConnection.java:163)
+	at org.portico.lrc.services.federation.handlers.outgoing.CreateFederationHandler.process(CreateFederationHandler.java:74)
+	at org.portico.utils.messaging.MessageSink.process(MessageSink.java:187)
+	at org.portico.impl.hla13.Impl13Helper.processMessage(Impl13Helper.java:123)
+	at org.portico.impl.hla13.Rti13Ambassador.processMessage(Rti13Ambassador.java:5822)
+	at org.portico.impl.hla13.Rti13Ambassador.createFederationExecution(Rti13Ambassador.java:194)
+	at hla.cashdeskClient.queue.QueueFederate.runFederate(QueueFederate.java:38)
+	at hla.cashdeskClient.queue.QueueFederate.main(QueueFederate.java:241)
+ERROR [main] portico.lrc: FAILURE Regiser sync point [ReadyToRun] by [QueueFederate]: already registered
+ERROR [main] portico.lrc: FAILURE Register sync point [ReadyToRun] by [QueueFederate]: label already registered
+ERROR [main] portico.lrc: federation exists: CashdeskCilentFederation
+org.portico.lrc.compat.JFederationExecutionAlreadyExists: federation exists: CashdeskCilentFederation
+	at org.portico.bindings.jgroups.LrcConnection.createFederation(LrcConnection.java:163)
+	at org.portico.lrc.services.federation.handlers.outgoing.CreateFederationHandler.process(CreateFederationHandler.java:74)
+	at org.portico.utils.messaging.MessageSink.process(MessageSink.java:187)
+	at org.portico.impl.hla13.Impl13Helper.processMessage(Impl13Helper.java:123)
+	at org.portico.impl.hla13.Rti13Ambassador.processMessage(Rti13Ambassador.java:5822)
+	at org.portico.impl.hla13.Rti13Ambassador.createFederationExecution(Rti13Ambassador.java:194)
+	at hla.cashdeskClient.client.ClientFederate.runFederate(ClientFederate.java:35)
+	at hla.cashdeskClient.client.ClientFederate.main(ClientFederate.java:184)
+ERROR [main] portico.lrc: FAILURE Regiser sync point [ReadyToRun] by [ClientFederate]: already registered
+ERROR [main] portico.lrc: FAILURE Register sync point [ReadyToRun] by [ClientFederate]: label already registered
+ERROR [main] portico.lrc: FAILURE Exception encountered while processing incoming message: Index: 0, Size: 0
+java.lang.IndexOutOfBoundsException: Index: 0, Size: 0
+	at java.util.LinkedList.checkElementIndex(Unknown Source)
+	at java.util.LinkedList.set(Unknown Source)
+	at hla.cashdeskClient.cashdesk.CashdeskAmbassador.receiveInteraction(CashdeskAmbassador.java:111)
+	at org.portico.impl.hla13.handlers.ReceiveInteractionCallbackHandler.process(ReceiveInteractionCallbackHandler.java:90)
+	at org.portico.utils.messaging.MessageChain.process(MessageChain.java:78)
+	at org.portico.utils.messaging.MessageSink.process(MessageSink.java:187)
+	at org.portico.lrc.LRC.tickProcess(LRC.java:641)
+	at org.portico.lrc.LRC.tickUntilEmpty(LRC.java:469)
+	at org.portico.lrc.LRC.tick(LRC.java:433)
+	at org.portico.impl.hla13.Impl13Helper.tick(Impl13Helper.java:130)
+	at org.portico.impl.hla13.Rti13Ambassador.tick(Rti13Ambassador.java:5781)
+	at hla.cashdeskClient.cashdesk.CashdeskFederate.advanceTime(CashdeskFederate.java:169)
+	at hla.cashdeskClient.cashdesk.CashdeskFederate.runFederate(CashdeskFederate.java:76)
+	at hla.cashdeskClient.cashdesk.CashdeskFederate.main(CashdeskFederate.java:175)
+ERROR [main] portico.lrc: FAILURE Exception encountered while processing incoming message: Index: 1, Size: 0
+java.lang.IndexOutOfBoundsException: Index: 1, Size: 0
+	at java.util.LinkedList.checkElementIndex(Unknown Source)
+	at java.util.LinkedList.set(Unknown Source)
+	at hla.cashdeskClient.cashdesk.CashdeskAmbassador.receiveInteraction(CashdeskAmbassador.java:111)
+	at org.portico.impl.hla13.handlers.ReceiveInteractionCallbackHandler.process(ReceiveInteractionCallbackHandler.java:90)
+	at org.portico.utils.messaging.MessageChain.process(MessageChain.java:78)
+	at org.portico.utils.messaging.MessageSink.process(MessageSink.java:187)
+	at org.portico.lrc.LRC.tickProcess(LRC.java:641)
+	at org.portico.lrc.LRC.tickUntilEmpty(LRC.java:469)
+	at org.portico.lrc.LRC.tick(LRC.java:433)
+	at org.portico.impl.hla13.Impl13Helper.tick(Impl13Helper.java:130)
+	at org.portico.impl.hla13.Rti13Ambassador.tick(Rti13Ambassador.java:5781)
+	at hla.cashdeskClient.cashdesk.CashdeskFederate.advanceTime(CashdeskFederate.java:169)
+	at hla.cashdeskClient.cashdesk.CashdeskFederate.runFederate(CashdeskFederate.java:76)
+	at hla.cashdeskClient.cashdesk.CashdeskFederate.main(CashdeskFederate.java:175)
+ERROR [main] portico.lrc: federation exists: CashdeskCilentFederation
+org.portico.lrc.compat.JFederationExecutionAlreadyExists: federation exists: CashdeskCilentFederation
+	at org.portico.bindings.jgroups.LrcConnection.createFederation(LrcConnection.java:163)
+	at org.portico.lrc.services.federation.handlers.outgoing.CreateFederationHandler.process(CreateFederationHandler.java:74)
+	at org.portico.utils.messaging.MessageSink.process(MessageSink.java:187)
+	at org.portico.impl.hla13.Impl13Helper.processMessage(Impl13Helper.java:123)
+	at org.portico.impl.hla13.Rti13Ambassador.processMessage(Rti13Ambassador.java:5822)
+	at org.portico.impl.hla13.Rti13Ambassador.createFederationExecution(Rti13Ambassador.java:194)
+	at hla.cashdeskClient.queue.QueueFederate.runFederate(QueueFederate.java:38)
+	at hla.cashdeskClient.queue.QueueFederate.main(QueueFederate.java:241)
+ERROR [main] portico.lrc: FAILURE Regiser sync point [ReadyToRun] by [QueueFederate]: already registered
+ERROR [main] portico.lrc: FAILURE Register sync point [ReadyToRun] by [QueueFederate]: label already registered
+ERROR [main] portico.lrc: federation exists: CashdeskCilentFederation
+org.portico.lrc.compat.JFederationExecutionAlreadyExists: federation exists: CashdeskCilentFederation
+	at org.portico.bindings.jgroups.LrcConnection.createFederation(LrcConnection.java:163)
+	at org.portico.lrc.services.federation.handlers.outgoing.CreateFederationHandler.process(CreateFederationHandler.java:74)
+	at org.portico.utils.messaging.MessageSink.process(MessageSink.java:187)
+	at org.portico.impl.hla13.Impl13Helper.processMessage(Impl13Helper.java:123)
+	at org.portico.impl.hla13.Rti13Ambassador.processMessage(Rti13Ambassador.java:5822)
+	at org.portico.impl.hla13.Rti13Ambassador.createFederationExecution(Rti13Ambassador.java:194)
+	at hla.cashdeskClient.cashdesk.CashdeskFederate.runFederate(CashdeskFederate.java:34)
+	at hla.cashdeskClient.cashdesk.CashdeskFederate.main(CashdeskFederate.java:173)
+ERROR [main] portico.lrc: FAILURE Regiser sync point [ReadyToRun] by [CashdeskFederate]: already registered
+ERROR [main] portico.lrc: FAILURE Register sync point [ReadyToRun] by [CashdeskFederate]: label already registered
+ERROR [main] portico.lrc: FAILURE Exception encountered while processing incoming message: Index: 0, Size: 0
+java.lang.IndexOutOfBoundsException: Index: 0, Size: 0
+	at java.util.LinkedList.checkElementIndex(Unknown Source)
+	at java.util.LinkedList.set(Unknown Source)
+	at hla.cashdeskClient.cashdesk.CashdeskAmbassador.receiveInteraction(CashdeskAmbassador.java:111)
+	at org.portico.impl.hla13.handlers.ReceiveInteractionCallbackHandler.process(ReceiveInteractionCallbackHandler.java:90)
+	at org.portico.utils.messaging.MessageChain.process(MessageChain.java:78)
+	at org.portico.utils.messaging.MessageSink.process(MessageSink.java:187)
+	at org.portico.lrc.LRC.tickProcess(LRC.java:641)
+	at org.portico.lrc.LRC.tickUntilEmpty(LRC.java:469)
+	at org.portico.lrc.LRC.tick(LRC.java:433)
+	at org.portico.impl.hla13.Impl13Helper.tick(Impl13Helper.java:130)
+	at org.portico.impl.hla13.Rti13Ambassador.tick(Rti13Ambassador.java:5781)
+	at hla.cashdeskClient.cashdesk.CashdeskFederate.advanceTime(CashdeskFederate.java:167)
+	at hla.cashdeskClient.cashdesk.CashdeskFederate.runFederate(CashdeskFederate.java:76)
+	at hla.cashdeskClient.cashdesk.CashdeskFederate.main(CashdeskFederate.java:173)
+ERROR [main] portico.lrc: FAILURE Exception encountered while processing incoming message: Index: 1, Size: 0
+java.lang.IndexOutOfBoundsException: Index: 1, Size: 0
+	at java.util.LinkedList.checkElementIndex(Unknown Source)
+	at java.util.LinkedList.set(Unknown Source)
+	at hla.cashdeskClient.cashdesk.CashdeskAmbassador.receiveInteraction(CashdeskAmbassador.java:111)
+	at org.portico.impl.hla13.handlers.ReceiveInteractionCallbackHandler.process(ReceiveInteractionCallbackHandler.java:90)
+	at org.portico.utils.messaging.MessageChain.process(MessageChain.java:78)
+	at org.portico.utils.messaging.MessageSink.process(MessageSink.java:187)
+	at org.portico.lrc.LRC.tickProcess(LRC.java:641)
+	at org.portico.lrc.LRC.tickUntilEmpty(LRC.java:469)
+	at org.portico.lrc.LRC.tick(LRC.java:433)
+	at org.portico.impl.hla13.Impl13Helper.tick(Impl13Helper.java:130)
+	at org.portico.impl.hla13.Rti13Ambassador.tick(Rti13Ambassador.java:5781)
+	at hla.cashdeskClient.cashdesk.CashdeskFederate.advanceTime(CashdeskFederate.java:167)
+	at hla.cashdeskClient.cashdesk.CashdeskFederate.runFederate(CashdeskFederate.java:76)
+	at hla.cashdeskClient.cashdesk.CashdeskFederate.main(CashdeskFederate.java:173)
+ERROR [main] portico.lrc: federation exists: CashdeskCilentFederation
+org.portico.lrc.compat.JFederationExecutionAlreadyExists: federation exists: CashdeskCilentFederation
+	at org.portico.bindings.jgroups.LrcConnection.createFederation(LrcConnection.java:163)
+	at org.portico.lrc.services.federation.handlers.outgoing.CreateFederationHandler.process(CreateFederationHandler.java:74)
+	at org.portico.utils.messaging.MessageSink.process(MessageSink.java:187)
+	at org.portico.impl.hla13.Impl13Helper.processMessage(Impl13Helper.java:123)
+	at org.portico.impl.hla13.Rti13Ambassador.processMessage(Rti13Ambassador.java:5822)
+	at org.portico.impl.hla13.Rti13Ambassador.createFederationExecution(Rti13Ambassador.java:194)
+	at hla.cashdeskClient.queue.QueueFederate.runFederate(QueueFederate.java:38)
+	at hla.cashdeskClient.queue.QueueFederate.main(QueueFederate.java:241)
+ERROR [main] portico.lrc: FAILURE Regiser sync point [ReadyToRun] by [QueueFederate]: already registered
+ERROR [main] portico.lrc: FAILURE Register sync point [ReadyToRun] by [QueueFederate]: label already registered
+ERROR [main] portico.lrc: federation exists: CashdeskCilentFederation
+org.portico.lrc.compat.JFederationExecutionAlreadyExists: federation exists: CashdeskCilentFederation
+	at org.portico.bindings.jgroups.LrcConnection.createFederation(LrcConnection.java:163)
+	at org.portico.lrc.services.federation.handlers.outgoing.CreateFederationHandler.process(CreateFederationHandler.java:74)
+	at org.portico.utils.messaging.MessageSink.process(MessageSink.java:187)
+	at org.portico.impl.hla13.Impl13Helper.processMessage(Impl13Helper.java:123)
+	at org.portico.impl.hla13.Rti13Ambassador.processMessage(Rti13Ambassador.java:5822)
+	at org.portico.impl.hla13.Rti13Ambassador.createFederationExecution(Rti13Ambassador.java:194)
+	at hla.cashdeskClient.client.ClientFederate.runFederate(ClientFederate.java:35)
+	at hla.cashdeskClient.client.ClientFederate.main(ClientFederate.java:184)
+ERROR [main] portico.lrc: FAILURE Regiser sync point [ReadyToRun] by [ClientFederate]: already registered
+ERROR [main] portico.lrc: FAILURE Register sync point [ReadyToRun] by [ClientFederate]: label already registered
+ERROR [main] portico.lrc: federation exists: CashdeskCilentFederation
+org.portico.lrc.compat.JFederationExecutionAlreadyExists: federation exists: CashdeskCilentFederation
+	at org.portico.bindings.jgroups.LrcConnection.createFederation(LrcConnection.java:163)
+	at org.portico.lrc.services.federation.handlers.outgoing.CreateFederationHandler.process(CreateFederationHandler.java:74)
+	at org.portico.utils.messaging.MessageSink.process(MessageSink.java:187)
+	at org.portico.impl.hla13.Impl13Helper.processMessage(Impl13Helper.java:123)
+	at org.portico.impl.hla13.Rti13Ambassador.processMessage(Rti13Ambassador.java:5822)
+	at org.portico.impl.hla13.Rti13Ambassador.createFederationExecution(Rti13Ambassador.java:194)
+	at hla.cashdeskClient.queue.QueueFederate.runFederate(QueueFederate.java:38)
+	at hla.cashdeskClient.queue.QueueFederate.main(QueueFederate.java:241)
+ERROR [main] portico.lrc: FAILURE Regiser sync point [ReadyToRun] by [QueueFederate]: already registered
+ERROR [main] portico.lrc: FAILURE Register sync point [ReadyToRun] by [QueueFederate]: label already registered
+ERROR [main] portico.lrc: federation exists: CashdeskCilentFederation
+org.portico.lrc.compat.JFederationExecutionAlreadyExists: federation exists: CashdeskCilentFederation
+	at org.portico.bindings.jgroups.LrcConnection.createFederation(LrcConnection.java:163)
+	at org.portico.lrc.services.federation.handlers.outgoing.CreateFederationHandler.process(CreateFederationHandler.java:74)
+	at org.portico.utils.messaging.MessageSink.process(MessageSink.java:187)
+	at org.portico.impl.hla13.Impl13Helper.processMessage(Impl13Helper.java:123)
+	at org.portico.impl.hla13.Rti13Ambassador.processMessage(Rti13Ambassador.java:5822)
+	at org.portico.impl.hla13.Rti13Ambassador.createFederationExecution(Rti13Ambassador.java:194)
+	at hla.cashdeskClient.cashdesk.CashdeskFederate.runFederate(CashdeskFederate.java:34)
+	at hla.cashdeskClient.cashdesk.CashdeskFederate.main(CashdeskFederate.java:174)
+ERROR [main] portico.lrc: FAILURE Regiser sync point [ReadyToRun] by [CashdeskFederate]: already registered
+ERROR [main] portico.lrc: FAILURE Register sync point [ReadyToRun] by [CashdeskFederate]: label already registered
+ERROR [main] portico.lrc: federation exists: CashdeskCilentFederation
+org.portico.lrc.compat.JFederationExecutionAlreadyExists: federation exists: CashdeskCilentFederation
+	at org.portico.bindings.jgroups.LrcConnection.createFederation(LrcConnection.java:163)
+	at org.portico.lrc.services.federation.handlers.outgoing.CreateFederationHandler.process(CreateFederationHandler.java:74)
+	at org.portico.utils.messaging.MessageSink.process(MessageSink.java:187)
+	at org.portico.impl.hla13.Impl13Helper.processMessage(Impl13Helper.java:123)
+	at org.portico.impl.hla13.Rti13Ambassador.processMessage(Rti13Ambassador.java:5822)
+	at org.portico.impl.hla13.Rti13Ambassador.createFederationExecution(Rti13Ambassador.java:194)
+	at hla.cashdeskClient.queue.QueueFederate.runFederate(QueueFederate.java:38)
+	at hla.cashdeskClient.queue.QueueFederate.main(QueueFederate.java:241)
+ERROR [main] portico.lrc: FAILURE Regiser sync point [ReadyToRun] by [QueueFederate]: already registered
+ERROR [main] portico.lrc: FAILURE Register sync point [ReadyToRun] by [QueueFederate]: label already registered
+ERROR [main] portico.lrc: federation exists: CashdeskCilentFederation
+org.portico.lrc.compat.JFederationExecutionAlreadyExists: federation exists: CashdeskCilentFederation
+	at org.portico.bindings.jgroups.LrcConnection.createFederation(LrcConnection.java:163)
+	at org.portico.lrc.services.federation.handlers.outgoing.CreateFederationHandler.process(CreateFederationHandler.java:74)
+	at org.portico.utils.messaging.MessageSink.process(MessageSink.java:187)
+	at org.portico.impl.hla13.Impl13Helper.processMessage(Impl13Helper.java:123)
+	at org.portico.impl.hla13.Rti13Ambassador.processMessage(Rti13Ambassador.java:5822)
+	at org.portico.impl.hla13.Rti13Ambassador.createFederationExecution(Rti13Ambassador.java:194)
+	at hla.cashdeskClient.queue.QueueFederate.runFederate(QueueFederate.java:38)
+	at hla.cashdeskClient.queue.QueueFederate.main(QueueFederate.java:241)
+ERROR [main] portico.lrc: federate name in use: QueueFederate
+org.portico.lrc.compat.JFederateAlreadyExecutionMember: federate name in use: QueueFederate
+	at org.portico.bindings.jgroups.LrcConnection.joinFederation(LrcConnection.java:260)
+	at org.portico.lrc.services.federation.handlers.outgoing.JoinFederationHandler.process(JoinFederationHandler.java:92)
+	at org.portico.utils.messaging.MessageSink.process(MessageSink.java:187)
+	at org.portico.impl.hla13.Impl13Helper.processMessage(Impl13Helper.java:123)
+	at org.portico.impl.hla13.Rti13Ambassador.processMessage(Rti13Ambassador.java:5822)
+	at org.portico.impl.hla13.Rti13Ambassador.joinFederationExecution(Rti13Ambassador.java:321)
+	at hla.cashdeskClient.queue.QueueFederate.runFederate(QueueFederate.java:52)
+	at hla.cashdeskClient.queue.QueueFederate.main(QueueFederate.java:241)
+ERROR [main] portico.lrc: federation exists: CashdeskCilentFederation
+org.portico.lrc.compat.JFederationExecutionAlreadyExists: federation exists: CashdeskCilentFederation
+	at org.portico.bindings.jgroups.LrcConnection.createFederation(LrcConnection.java:163)
+	at org.portico.lrc.services.federation.handlers.outgoing.CreateFederationHandler.process(CreateFederationHandler.java:74)
+	at org.portico.utils.messaging.MessageSink.process(MessageSink.java:187)
+	at org.portico.impl.hla13.Impl13Helper.processMessage(Impl13Helper.java:123)
+	at org.portico.impl.hla13.Rti13Ambassador.processMessage(Rti13Ambassador.java:5822)
+	at org.portico.impl.hla13.Rti13Ambassador.createFederationExecution(Rti13Ambassador.java:194)
+	at hla.cashdeskClient.client.ClientFederate.runFederate(ClientFederate.java:35)
+	at hla.cashdeskClient.client.ClientFederate.main(ClientFederate.java:184)
+ERROR [main] portico.lrc: FAILURE Regiser sync point [ReadyToRun] by [ClientFederate]: already registered
+ERROR [main] portico.lrc: FAILURE Register sync point [ReadyToRun] by [ClientFederate]: label already registered
+ERROR [main] portico.lrc: federation exists: CashdeskCilentFederation
+org.portico.lrc.compat.JFederationExecutionAlreadyExists: federation exists: CashdeskCilentFederation
+	at org.portico.bindings.jgroups.LrcConnection.createFederation(LrcConnection.java:163)
+	at org.portico.lrc.services.federation.handlers.outgoing.CreateFederationHandler.process(CreateFederationHandler.java:74)
+	at org.portico.utils.messaging.MessageSink.process(MessageSink.java:187)
+	at org.portico.impl.hla13.Impl13Helper.processMessage(Impl13Helper.java:123)
+	at org.portico.impl.hla13.Rti13Ambassador.processMessage(Rti13Ambassador.java:5822)
+	at org.portico.impl.hla13.Rti13Ambassador.createFederationExecution(Rti13Ambassador.java:194)
+	at hla.cashdeskClient.queue.QueueFederate.runFederate(QueueFederate.java:38)
+	at hla.cashdeskClient.queue.QueueFederate.main(QueueFederate.java:241)
+ERROR [main] portico.lrc: FAILURE Regiser sync point [ReadyToRun] by [QueueFederate]: already registered
+ERROR [main] portico.lrc: FAILURE Register sync point [ReadyToRun] by [QueueFederate]: label already registered
+ERROR [main] portico.lrc: federation exists: CashdeskCilentFederation
+org.portico.lrc.compat.JFederationExecutionAlreadyExists: federation exists: CashdeskCilentFederation
+	at org.portico.bindings.jgroups.LrcConnection.createFederation(LrcConnection.java:163)
+	at org.portico.lrc.services.federation.handlers.outgoing.CreateFederationHandler.process(CreateFederationHandler.java:74)
+	at org.portico.utils.messaging.MessageSink.process(MessageSink.java:187)
+	at org.portico.impl.hla13.Impl13Helper.processMessage(Impl13Helper.java:123)
+	at org.portico.impl.hla13.Rti13Ambassador.processMessage(Rti13Ambassador.java:5822)
+	at org.portico.impl.hla13.Rti13Ambassador.createFederationExecution(Rti13Ambassador.java:194)
+	at hla.cashdeskClient.client.ClientFederate.runFederate(ClientFederate.java:35)
+	at hla.cashdeskClient.client.ClientFederate.main(ClientFederate.java:184)
+ERROR [main] portico.lrc: FAILURE Regiser sync point [ReadyToRun] by [ClientFederate]: already registered
+ERROR [main] portico.lrc: FAILURE Register sync point [ReadyToRun] by [ClientFederate]: label already registered
+ERROR [main] portico.lrc: federation exists: CashdeskCilentFederation
+org.portico.lrc.compat.JFederationExecutionAlreadyExists: federation exists: CashdeskCilentFederation
+	at org.portico.bindings.jgroups.LrcConnection.createFederation(LrcConnection.java:163)
+	at org.portico.lrc.services.federation.handlers.outgoing.CreateFederationHandler.process(CreateFederationHandler.java:74)
+	at org.portico.utils.messaging.MessageSink.process(MessageSink.java:187)
+	at org.portico.impl.hla13.Impl13Helper.processMessage(Impl13Helper.java:123)
+	at org.portico.impl.hla13.Rti13Ambassador.processMessage(Rti13Ambassador.java:5822)
+	at org.portico.impl.hla13.Rti13Ambassador.createFederationExecution(Rti13Ambassador.java:194)
+	at hla.cashdeskClient.client.ClientFederate.runFederate(ClientFederate.java:35)
+	at hla.cashdeskClient.client.ClientFederate.main(ClientFederate.java:184)
+ERROR [main] portico.lrc: FAILURE Regiser sync point [ReadyToRun] by [ClientFederate]: already registered
+ERROR [main] portico.lrc: FAILURE Register sync point [ReadyToRun] by [ClientFederate]: label already registered
+ERROR [main] portico.lrc: federation exists: CashdeskCilentFederation
+org.portico.lrc.compat.JFederationExecutionAlreadyExists: federation exists: CashdeskCilentFederation
+	at org.portico.bindings.jgroups.LrcConnection.createFederation(LrcConnection.java:163)
+	at org.portico.lrc.services.federation.handlers.outgoing.CreateFederationHandler.process(CreateFederationHandler.java:74)
+	at org.portico.utils.messaging.MessageSink.process(MessageSink.java:187)
+	at org.portico.impl.hla13.Impl13Helper.processMessage(Impl13Helper.java:123)
+	at org.portico.impl.hla13.Rti13Ambassador.processMessage(Rti13Ambassador.java:5822)
+	at org.portico.impl.hla13.Rti13Ambassador.createFederationExecution(Rti13Ambassador.java:194)
+	at hla.cashdeskClient.gui.GuiFederate.runFederate(GuiFederate.java:29)
+	at hla.cashdeskClient.gui.GuiFederate.main(GuiFederate.java:148)
+ERROR [main] portico.lrc: FAILURE Regiser sync point [ReadyToRun] by [GuiFederate]: already registered
+ERROR [main] portico.lrc: FAILURE Register sync point [ReadyToRun] by [GuiFederate]: label already registered
+ERROR [main] portico.lrc: federation exists: CashdeskCilentFederation
+org.portico.lrc.compat.JFederationExecutionAlreadyExists: federation exists: CashdeskCilentFederation
+	at org.portico.bindings.jgroups.LrcConnection.createFederation(LrcConnection.java:163)
+	at org.portico.lrc.services.federation.handlers.outgoing.CreateFederationHandler.process(CreateFederationHandler.java:74)
+	at org.portico.utils.messaging.MessageSink.process(MessageSink.java:187)
+	at org.portico.impl.hla13.Impl13Helper.processMessage(Impl13Helper.java:123)
+	at org.portico.impl.hla13.Rti13Ambassador.processMessage(Rti13Ambassador.java:5822)
+	at org.portico.impl.hla13.Rti13Ambassador.createFederationExecution(Rti13Ambassador.java:194)
+	at hla.cashdeskClient.queue.QueueFederate.runFederate(QueueFederate.java:38)
+	at hla.cashdeskClient.queue.QueueFederate.main(QueueFederate.java:283)
+ERROR [main] portico.lrc: FAILURE Regiser sync point [ReadyToRun] by [QueueFederate]: already registered
+ERROR [main] portico.lrc: FAILURE Register sync point [ReadyToRun] by [QueueFederate]: label already registered
+ERROR [main] portico.lrc: federation exists: CashdeskCilentFederation
+org.portico.lrc.compat.JFederationExecutionAlreadyExists: federation exists: CashdeskCilentFederation
+	at org.portico.bindings.jgroups.LrcConnection.createFederation(LrcConnection.java:163)
+	at org.portico.lrc.services.federation.handlers.outgoing.CreateFederationHandler.process(CreateFederationHandler.java:74)
+	at org.portico.utils.messaging.MessageSink.process(MessageSink.java:187)
+	at org.portico.impl.hla13.Impl13Helper.processMessage(Impl13Helper.java:123)
+	at org.portico.impl.hla13.Rti13Ambassador.processMessage(Rti13Ambassador.java:5822)
+	at org.portico.impl.hla13.Rti13Ambassador.createFederationExecution(Rti13Ambassador.java:194)
+	at hla.cashdeskClient.statistics.StatisticsFederate.runFederate(StatisticsFederate.java:42)
+	at hla.cashdeskClient.statistics.StatisticsFederate.main(StatisticsFederate.java:260)
+ERROR [main] portico.lrc: FAILURE Regiser sync point [ReadyToRun] by [StatisticsFederate]: already registered
+ERROR [main] portico.lrc: FAILURE Register sync point [ReadyToRun] by [StatisticsFederate]: label already registered
+ERROR [main] portico.lrc: federation exists: CashdeskCilentFederation
+org.portico.lrc.compat.JFederationExecutionAlreadyExists: federation exists: CashdeskCilentFederation
+	at org.portico.bindings.jgroups.LrcConnection.createFederation(LrcConnection.java:163)
+	at org.portico.lrc.services.federation.handlers.outgoing.CreateFederationHandler.process(CreateFederationHandler.java:74)
+	at org.portico.utils.messaging.MessageSink.process(MessageSink.java:187)
+	at org.portico.impl.hla13.Impl13Helper.processMessage(Impl13Helper.java:123)
+	at org.portico.impl.hla13.Rti13Ambassador.processMessage(Rti13Ambassador.java:5822)
+	at org.portico.impl.hla13.Rti13Ambassador.createFederationExecution(Rti13Ambassador.java:194)
+	at hla.cashdeskClient.client.ClientFederate.runFederate(ClientFederate.java:35)
+	at hla.cashdeskClient.client.ClientFederate.main(ClientFederate.java:184)
+ERROR [main] portico.lrc: FAILURE Regiser sync point [ReadyToRun] by [ClientFederate]: already registered
+ERROR [main] portico.lrc: FAILURE Register sync point [ReadyToRun] by [ClientFederate]: label already registered
+ERROR [main] portico.lrc: federation exists: CashdeskCilentFederation
+org.portico.lrc.compat.JFederationExecutionAlreadyExists: federation exists: CashdeskCilentFederation
+	at org.portico.bindings.jgroups.LrcConnection.createFederation(LrcConnection.java:163)
+	at org.portico.lrc.services.federation.handlers.outgoing.CreateFederationHandler.process(CreateFederationHandler.java:74)
+	at org.portico.utils.messaging.MessageSink.process(MessageSink.java:187)
+	at org.portico.impl.hla13.Impl13Helper.processMessage(Impl13Helper.java:123)
+	at org.portico.impl.hla13.Rti13Ambassador.processMessage(Rti13Ambassador.java:5822)
+	at org.portico.impl.hla13.Rti13Ambassador.createFederationExecution(Rti13Ambassador.java:194)
+	at hla.cashdeskClient.queue.QueueFederate.runFederate(QueueFederate.java:38)
+	at hla.cashdeskClient.queue.QueueFederate.main(QueueFederate.java:283)
+ERROR [main] portico.lrc: FAILURE Regiser sync point [ReadyToRun] by [QueueFederate]: already registered
+ERROR [main] portico.lrc: FAILURE Register sync point [ReadyToRun] by [QueueFederate]: label already registered
+ERROR [main] portico.lrc: federation exists: CashdeskCilentFederation
+org.portico.lrc.compat.JFederationExecutionAlreadyExists: federation exists: CashdeskCilentFederation
+	at org.portico.bindings.jgroups.LrcConnection.createFederation(LrcConnection.java:163)
+	at org.portico.lrc.services.federation.handlers.outgoing.CreateFederationHandler.process(CreateFederationHandler.java:74)
+	at org.portico.utils.messaging.MessageSink.process(MessageSink.java:187)
+	at org.portico.impl.hla13.Impl13Helper.processMessage(Impl13Helper.java:123)
+	at org.portico.impl.hla13.Rti13Ambassador.processMessage(Rti13Ambassador.java:5822)
+	at org.portico.impl.hla13.Rti13Ambassador.createFederationExecution(Rti13Ambassador.java:194)
+	at hla.cashdeskClient.gui.GuiFederate.runFederate(GuiFederate.java:29)
+	at hla.cashdeskClient.gui.GuiFederate.main(GuiFederate.java:148)
+ERROR [main] portico.lrc: FAILURE Regiser sync point [ReadyToRun] by [GuiFederate]: already registered
+ERROR [main] portico.lrc: FAILURE Register sync point [ReadyToRun] by [GuiFederate]: label already registered
+ERROR [main] portico.lrc: federation exists: CashdeskCilentFederation
+org.portico.lrc.compat.JFederationExecutionAlreadyExists: federation exists: CashdeskCilentFederation
+	at org.portico.bindings.jgroups.LrcConnection.createFederation(LrcConnection.java:163)
+	at org.portico.lrc.services.federation.handlers.outgoing.CreateFederationHandler.process(CreateFederationHandler.java:74)
+	at org.portico.utils.messaging.MessageSink.process(MessageSink.java:187)
+	at org.portico.impl.hla13.Impl13Helper.processMessage(Impl13Helper.java:123)
+	at org.portico.impl.hla13.Rti13Ambassador.processMessage(Rti13Ambassador.java:5822)
+	at org.portico.impl.hla13.Rti13Ambassador.createFederationExecution(Rti13Ambassador.java:194)
+	at hla.cashdeskClient.statistics.StatisticsFederate.runFederate(StatisticsFederate.java:42)
+	at hla.cashdeskClient.statistics.StatisticsFederate.main(StatisticsFederate.java:260)
+ERROR [main] portico.lrc: FAILURE Regiser sync point [ReadyToRun] by [StatisticsFederate]: already registered
+ERROR [main] portico.lrc: FAILURE Register sync point [ReadyToRun] by [StatisticsFederate]: label already registered
+ERROR [main] portico.lrc: federation exists: CashdeskCilentFederation
+org.portico.lrc.compat.JFederationExecutionAlreadyExists: federation exists: CashdeskCilentFederation
+	at org.portico.bindings.jgroups.LrcConnection.createFederation(LrcConnection.java:163)
+	at org.portico.lrc.services.federation.handlers.outgoing.CreateFederationHandler.process(CreateFederationHandler.java:74)
+	at org.portico.utils.messaging.MessageSink.process(MessageSink.java:187)
+	at org.portico.impl.hla13.Impl13Helper.processMessage(Impl13Helper.java:123)
+	at org.portico.impl.hla13.Rti13Ambassador.processMessage(Rti13Ambassador.java:5822)
+	at org.portico.impl.hla13.Rti13Ambassador.createFederationExecution(Rti13Ambassador.java:194)
+	at hla.cashdeskClient.cashdesk.CashdeskFederate.runFederate(CashdeskFederate.java:34)
+	at hla.cashdeskClient.cashdesk.CashdeskFederate.main(CashdeskFederate.java:174)
+ERROR [main] portico.lrc: FAILURE Register sync point [ReadyToRun] by [CashdeskFederate]: already announced
+ERROR [main] portico.lrc: federation exists: CashdeskCilentFederation
+org.portico.lrc.compat.JFederationExecutionAlreadyExists: federation exists: CashdeskCilentFederation
+	at org.portico.bindings.jgroups.LrcConnection.createFederation(LrcConnection.java:163)
+	at org.portico.lrc.services.federation.handlers.outgoing.CreateFederationHandler.process(CreateFederationHandler.java:74)
+	at org.portico.utils.messaging.MessageSink.process(MessageSink.java:187)
+	at org.portico.impl.hla13.Impl13Helper.processMessage(Impl13Helper.java:123)
+	at org.portico.impl.hla13.Rti13Ambassador.processMessage(Rti13Ambassador.java:5822)
+	at org.portico.impl.hla13.Rti13Ambassador.createFederationExecution(Rti13Ambassador.java:194)
+	at hla.cashdeskClient.gui.GuiFederate.runFederate(GuiFederate.java:29)
+	at hla.cashdeskClient.gui.GuiFederate.main(GuiFederate.java:148)
+ERROR [main] portico.lrc: FAILURE Regiser sync point [ReadyToRun] by [GuiFederate]: already registered
+ERROR [main] portico.lrc: FAILURE Register sync point [ReadyToRun] by [GuiFederate]: label already registered
+ERROR [main] portico.lrc: federation exists: CashdeskCilentFederation
+org.portico.lrc.compat.JFederationExecutionAlreadyExists: federation exists: CashdeskCilentFederation
+	at org.portico.bindings.jgroups.LrcConnection.createFederation(LrcConnection.java:163)
+	at org.portico.lrc.services.federation.handlers.outgoing.CreateFederationHandler.process(CreateFederationHandler.java:74)
+	at org.portico.utils.messaging.MessageSink.process(MessageSink.java:187)
+	at org.portico.impl.hla13.Impl13Helper.processMessage(Impl13Helper.java:123)
+	at org.portico.impl.hla13.Rti13Ambassador.processMessage(Rti13Ambassador.java:5822)
+	at org.portico.impl.hla13.Rti13Ambassador.createFederationExecution(Rti13Ambassador.java:194)
+	at hla.cashdeskClient.queue.QueueFederate.runFederate(QueueFederate.java:38)
+	at hla.cashdeskClient.queue.QueueFederate.main(QueueFederate.java:283)
+ERROR [main] portico.lrc: FAILURE Regiser sync point [ReadyToRun] by [QueueFederate]: already registered
+ERROR [main] portico.lrc: FAILURE Register sync point [ReadyToRun] by [QueueFederate]: label already registered
+ERROR [main] portico.lrc: federation exists: CashdeskCilentFederation
+org.portico.lrc.compat.JFederationExecutionAlreadyExists: federation exists: CashdeskCilentFederation
+	at org.portico.bindings.jgroups.LrcConnection.createFederation(LrcConnection.java:163)
+	at org.portico.lrc.services.federation.handlers.outgoing.CreateFederationHandler.process(CreateFederationHandler.java:74)
+	at org.portico.utils.messaging.MessageSink.process(MessageSink.java:187)
+	at org.portico.impl.hla13.Impl13Helper.processMessage(Impl13Helper.java:123)
+	at org.portico.impl.hla13.Rti13Ambassador.processMessage(Rti13Ambassador.java:5822)
+	at org.portico.impl.hla13.Rti13Ambassador.createFederationExecution(Rti13Ambassador.java:194)
+	at hla.cashdeskClient.statistics.StatisticsFederate.runFederate(StatisticsFederate.java:42)
+	at hla.cashdeskClient.statistics.StatisticsFederate.main(StatisticsFederate.java:260)
+ERROR [main] portico.lrc: FAILURE Regiser sync point [ReadyToRun] by [StatisticsFederate]: already registered
+ERROR [main] portico.lrc: FAILURE Register sync point [ReadyToRun] by [StatisticsFederate]: label already registered
+ERROR [main] portico.lrc: federation exists: CashdeskCilentFederation
+org.portico.lrc.compat.JFederationExecutionAlreadyExists: federation exists: CashdeskCilentFederation
+	at org.portico.bindings.jgroups.LrcConnection.createFederation(LrcConnection.java:163)
+	at org.portico.lrc.services.federation.handlers.outgoing.CreateFederationHandler.process(CreateFederationHandler.java:74)
+	at org.portico.utils.messaging.MessageSink.process(MessageSink.java:187)
+	at org.portico.impl.hla13.Impl13Helper.processMessage(Impl13Helper.java:123)
+	at org.portico.impl.hla13.Rti13Ambassador.processMessage(Rti13Ambassador.java:5822)
+	at org.portico.impl.hla13.Rti13Ambassador.createFederationExecution(Rti13Ambassador.java:194)
+	at hla.cashdeskClient.gui.GuiFederate.runFederate(GuiFederate.java:29)
+	at hla.cashdeskClient.gui.GuiFederate.main(GuiFederate.java:148)
+ERROR [main] portico.lrc: FAILURE Regiser sync point [ReadyToRun] by [GuiFederate]: already registered
+ERROR [main] portico.lrc: FAILURE Register sync point [ReadyToRun] by [GuiFederate]: label already registered
+ERROR [main] portico.lrc: federation exists: CashdeskCilentFederation
+org.portico.lrc.compat.JFederationExecutionAlreadyExists: federation exists: CashdeskCilentFederation
+	at org.portico.bindings.jgroups.LrcConnection.createFederation(LrcConnection.java:163)
+	at org.portico.lrc.services.federation.handlers.outgoing.CreateFederationHandler.process(CreateFederationHandler.java:74)
+	at org.portico.utils.messaging.MessageSink.process(MessageSink.java:187)
+	at org.portico.impl.hla13.Impl13Helper.processMessage(Impl13Helper.java:123)
+	at org.portico.impl.hla13.Rti13Ambassador.processMessage(Rti13Ambassador.java:5822)
+	at org.portico.impl.hla13.Rti13Ambassador.createFederationExecution(Rti13Ambassador.java:194)
+	at hla.cashdeskClient.queue.QueueFederate.runFederate(QueueFederate.java:38)
+	at hla.cashdeskClient.queue.QueueFederate.main(QueueFederate.java:283)
+ERROR [main] portico.lrc: FAILURE Regiser sync point [ReadyToRun] by [QueueFederate]: already registered
+ERROR [main] portico.lrc: FAILURE Register sync point [ReadyToRun] by [QueueFederate]: label already registered
+ERROR [main] portico.lrc: federation exists: CashdeskCilentFederation
+org.portico.lrc.compat.JFederationExecutionAlreadyExists: federation exists: CashdeskCilentFederation
+	at org.portico.bindings.jgroups.LrcConnection.createFederation(LrcConnection.java:163)
+	at org.portico.lrc.services.federation.handlers.outgoing.CreateFederationHandler.process(CreateFederationHandler.java:74)
+	at org.portico.utils.messaging.MessageSink.process(MessageSink.java:187)
+	at org.portico.impl.hla13.Impl13Helper.processMessage(Impl13Helper.java:123)
+	at org.portico.impl.hla13.Rti13Ambassador.processMessage(Rti13Ambassador.java:5822)
+	at org.portico.impl.hla13.Rti13Ambassador.createFederationExecution(Rti13Ambassador.java:194)
+	at hla.cashdeskClient.statistics.StatisticsFederate.runFederate(StatisticsFederate.java:42)
+	at hla.cashdeskClient.statistics.StatisticsFederate.main(StatisticsFederate.java:261)
+ERROR [main] portico.lrc: FAILURE Regiser sync point [ReadyToRun] by [StatisticsFederate]: already registered
+ERROR [main] portico.lrc: FAILURE Register sync point [ReadyToRun] by [StatisticsFederate]: label already registered
+ERROR [main] portico.lrc: federation exists: CashdeskCilentFederation
+org.portico.lrc.compat.JFederationExecutionAlreadyExists: federation exists: CashdeskCilentFederation
+	at org.portico.bindings.jgroups.LrcConnection.createFederation(LrcConnection.java:163)
+	at org.portico.lrc.services.federation.handlers.outgoing.CreateFederationHandler.process(CreateFederationHandler.java:74)
+	at org.portico.utils.messaging.MessageSink.process(MessageSink.java:187)
+	at org.portico.impl.hla13.Impl13Helper.processMessage(Impl13Helper.java:123)
+	at org.portico.impl.hla13.Rti13Ambassador.processMessage(Rti13Ambassador.java:5822)
+	at org.portico.impl.hla13.Rti13Ambassador.createFederationExecution(Rti13Ambassador.java:194)
+	at hla.cashdeskClient.client.ClientFederate.runFederate(ClientFederate.java:35)
+	at hla.cashdeskClient.client.ClientFederate.main(ClientFederate.java:184)
+ERROR [main] portico.lrc: FAILURE Regiser sync point [ReadyToRun] by [ClientFederate]: already registered
+ERROR [main] portico.lrc: FAILURE Register sync point [ReadyToRun] by [ClientFederate]: label already registered
+ERROR [main] portico.lrc: federation exists: CashdeskCilentFederation
+org.portico.lrc.compat.JFederationExecutionAlreadyExists: federation exists: CashdeskCilentFederation
+	at org.portico.bindings.jgroups.LrcConnection.createFederation(LrcConnection.java:163)
+	at org.portico.lrc.services.federation.handlers.outgoing.CreateFederationHandler.process(CreateFederationHandler.java:74)
+	at org.portico.utils.messaging.MessageSink.process(MessageSink.java:187)
+	at org.portico.impl.hla13.Impl13Helper.processMessage(Impl13Helper.java:123)
+	at org.portico.impl.hla13.Rti13Ambassador.processMessage(Rti13Ambassador.java:5822)
+	at org.portico.impl.hla13.Rti13Ambassador.createFederationExecution(Rti13Ambassador.java:194)
+	at hla.cashdeskClient.gui.GuiFederate.runFederate(GuiFederate.java:29)
+	at hla.cashdeskClient.gui.GuiFederate.main(GuiFederate.java:148)
+ERROR [main] portico.lrc: FAILURE Regiser sync point [ReadyToRun] by [GuiFederate]: already registered
+ERROR [main] portico.lrc: FAILURE Register sync point [ReadyToRun] by [GuiFederate]: label already registered
+ERROR [main] portico.lrc: federation exists: CashdeskCilentFederation
+org.portico.lrc.compat.JFederationExecutionAlreadyExists: federation exists: CashdeskCilentFederation
+	at org.portico.bindings.jgroups.LrcConnection.createFederation(LrcConnection.java:163)
+	at org.portico.lrc.services.federation.handlers.outgoing.CreateFederationHandler.process(CreateFederationHandler.java:74)
+	at org.portico.utils.messaging.MessageSink.process(MessageSink.java:187)
+	at org.portico.impl.hla13.Impl13Helper.processMessage(Impl13Helper.java:123)
+	at org.portico.impl.hla13.Rti13Ambassador.processMessage(Rti13Ambassador.java:5822)
+	at org.portico.impl.hla13.Rti13Ambassador.createFederationExecution(Rti13Ambassador.java:194)
+	at hla.cashdeskClient.queue.QueueFederate.runFederate(QueueFederate.java:38)
+	at hla.cashdeskClient.queue.QueueFederate.main(QueueFederate.java:283)
+ERROR [main] portico.lrc: FAILURE Regiser sync point [ReadyToRun] by [QueueFederate]: already registered
+ERROR [main] portico.lrc: FAILURE Register sync point [ReadyToRun] by [QueueFederate]: label already registered
+ERROR [main] portico.lrc: federation exists: CashdeskCilentFederation
+org.portico.lrc.compat.JFederationExecutionAlreadyExists: federation exists: CashdeskCilentFederation
+	at org.portico.bindings.jgroups.LrcConnection.createFederation(LrcConnection.java:163)
+	at org.portico.lrc.services.federation.handlers.outgoing.CreateFederationHandler.process(CreateFederationHandler.java:74)
+	at org.portico.utils.messaging.MessageSink.process(MessageSink.java:187)
+	at org.portico.impl.hla13.Impl13Helper.processMessage(Impl13Helper.java:123)
+	at org.portico.impl.hla13.Rti13Ambassador.processMessage(Rti13Ambassador.java:5822)
+	at org.portico.impl.hla13.Rti13Ambassador.createFederationExecution(Rti13Ambassador.java:194)
+	at hla.cashdeskClient.statistics.StatisticsFederate.runFederate(StatisticsFederate.java:42)
+	at hla.cashdeskClient.statistics.StatisticsFederate.main(StatisticsFederate.java:261)
+ERROR [main] portico.lrc: FAILURE Regiser sync point [ReadyToRun] by [StatisticsFederate]: already registered
+ERROR [main] portico.lrc: FAILURE Register sync point [ReadyToRun] by [StatisticsFederate]: label already registered
+ERROR [main] portico.lrc: federation exists: CashdeskCilentFederation
+org.portico.lrc.compat.JFederationExecutionAlreadyExists: federation exists: CashdeskCilentFederation
+	at org.portico.bindings.jgroups.LrcConnection.createFederation(LrcConnection.java:163)
+	at org.portico.lrc.services.federation.handlers.outgoing.CreateFederationHandler.process(CreateFederationHandler.java:74)
+	at org.portico.utils.messaging.MessageSink.process(MessageSink.java:187)
+	at org.portico.impl.hla13.Impl13Helper.processMessage(Impl13Helper.java:123)
+	at org.portico.impl.hla13.Rti13Ambassador.processMessage(Rti13Ambassador.java:5822)
+	at org.portico.impl.hla13.Rti13Ambassador.createFederationExecution(Rti13Ambassador.java:194)
+	at hla.cashdeskClient.client.ClientFederate.runFederate(ClientFederate.java:35)
+	at hla.cashdeskClient.client.ClientFederate.main(ClientFederate.java:184)
+ERROR [main] portico.lrc: FAILURE Regiser sync point [ReadyToRun] by [ClientFederate]: already registered
+ERROR [main] portico.lrc: FAILURE Register sync point [ReadyToRun] by [ClientFederate]: label already registered
+ERROR [main] portico.lrc: federation exists: CashdeskCilentFederation
+org.portico.lrc.compat.JFederationExecutionAlreadyExists: federation exists: CashdeskCilentFederation
+	at org.portico.bindings.jgroups.LrcConnection.createFederation(LrcConnection.java:163)
+	at org.portico.lrc.services.federation.handlers.outgoing.CreateFederationHandler.process(CreateFederationHandler.java:74)
+	at org.portico.utils.messaging.MessageSink.process(MessageSink.java:187)
+	at org.portico.impl.hla13.Impl13Helper.processMessage(Impl13Helper.java:123)
+	at org.portico.impl.hla13.Rti13Ambassador.processMessage(Rti13Ambassador.java:5822)
+	at org.portico.impl.hla13.Rti13Ambassador.createFederationExecution(Rti13Ambassador.java:194)
+	at hla.cashdeskClient.gui.GuiFederate.runFederate(GuiFederate.java:29)
+	at hla.cashdeskClient.gui.GuiFederate.main(GuiFederate.java:148)
+ERROR [main] portico.lrc: FAILURE Regiser sync point [ReadyToRun] by [GuiFederate]: already registered
+ERROR [main] portico.lrc: FAILURE Register sync point [ReadyToRun] by [GuiFederate]: label already registered
+ERROR [main] portico.lrc: federation exists: CashdeskCilentFederation
+org.portico.lrc.compat.JFederationExecutionAlreadyExists: federation exists: CashdeskCilentFederation
+	at org.portico.bindings.jgroups.LrcConnection.createFederation(LrcConnection.java:163)
+	at org.portico.lrc.services.federation.handlers.outgoing.CreateFederationHandler.process(CreateFederationHandler.java:74)
+	at org.portico.utils.messaging.MessageSink.process(MessageSink.java:187)
+	at org.portico.impl.hla13.Impl13Helper.processMessage(Impl13Helper.java:123)
+	at org.portico.impl.hla13.Rti13Ambassador.processMessage(Rti13Ambassador.java:5822)
+	at org.portico.impl.hla13.Rti13Ambassador.createFederationExecution(Rti13Ambassador.java:194)
+	at hla.cashdeskClient.queue.QueueFederate.runFederate(QueueFederate.java:38)
+	at hla.cashdeskClient.queue.QueueFederate.main(QueueFederate.java:283)
+ERROR [main] portico.lrc: FAILURE Regiser sync point [ReadyToRun] by [QueueFederate]: already registered
+ERROR [main] portico.lrc: FAILURE Register sync point [ReadyToRun] by [QueueFederate]: label already registered
+ERROR [main] portico.lrc: federation exists: CashdeskCilentFederation
+org.portico.lrc.compat.JFederationExecutionAlreadyExists: federation exists: CashdeskCilentFederation
+	at org.portico.bindings.jgroups.LrcConnection.createFederation(LrcConnection.java:163)
+	at org.portico.lrc.services.federation.handlers.outgoing.CreateFederationHandler.process(CreateFederationHandler.java:74)
+	at org.portico.utils.messaging.MessageSink.process(MessageSink.java:187)
+	at org.portico.impl.hla13.Impl13Helper.processMessage(Impl13Helper.java:123)
+	at org.portico.impl.hla13.Rti13Ambassador.processMessage(Rti13Ambassador.java:5822)
+	at org.portico.impl.hla13.Rti13Ambassador.createFederationExecution(Rti13Ambassador.java:194)
+	at hla.cashdeskClient.statistics.StatisticsFederate.runFederate(StatisticsFederate.java:42)
+	at hla.cashdeskClient.statistics.StatisticsFederate.main(StatisticsFederate.java:261)
+ERROR [main] portico.lrc: FAILURE Regiser sync point [ReadyToRun] by [StatisticsFederate]: already registered
+ERROR [main] portico.lrc: FAILURE Register sync point [ReadyToRun] by [StatisticsFederate]: label already registered
+ERROR [main] portico.lrc: federation exists: CashdeskCilentFederation
+org.portico.lrc.compat.JFederationExecutionAlreadyExists: federation exists: CashdeskCilentFederation
+	at org.portico.bindings.jgroups.LrcConnection.createFederation(LrcConnection.java:163)
+	at org.portico.lrc.services.federation.handlers.outgoing.CreateFederationHandler.process(CreateFederationHandler.java:74)
+	at org.portico.utils.messaging.MessageSink.process(MessageSink.java:187)
+	at org.portico.impl.hla13.Impl13Helper.processMessage(Impl13Helper.java:123)
+	at org.portico.impl.hla13.Rti13Ambassador.processMessage(Rti13Ambassador.java:5822)
+	at org.portico.impl.hla13.Rti13Ambassador.createFederationExecution(Rti13Ambassador.java:194)
+	at hla.cashdeskClient.cashdesk.CashdeskFederate.runFederate(CashdeskFederate.java:34)
+	at hla.cashdeskClient.cashdesk.CashdeskFederate.main(CashdeskFederate.java:174)
+ERROR [main] portico.lrc: federate name in use: CashdeskFederate
+org.portico.lrc.compat.JFederateAlreadyExecutionMember: federate name in use: CashdeskFederate
+	at org.portico.bindings.jgroups.LrcConnection.joinFederation(LrcConnection.java:260)
+	at org.portico.lrc.services.federation.handlers.outgoing.JoinFederationHandler.process(JoinFederationHandler.java:92)
+	at org.portico.utils.messaging.MessageSink.process(MessageSink.java:187)
+	at org.portico.impl.hla13.Impl13Helper.processMessage(Impl13Helper.java:123)
+	at org.portico.impl.hla13.Rti13Ambassador.processMessage(Rti13Ambassador.java:5822)
+	at org.portico.impl.hla13.Rti13Ambassador.joinFederationExecution(Rti13Ambassador.java:321)
+	at hla.cashdeskClient.cashdesk.CashdeskFederate.runFederate(CashdeskFederate.java:48)
+	at hla.cashdeskClient.cashdesk.CashdeskFederate.main(CashdeskFederate.java:174)
+ERROR [main] portico.lrc: federation exists: CashdeskCilentFederation
+org.portico.lrc.compat.JFederationExecutionAlreadyExists: federation exists: CashdeskCilentFederation
+	at org.portico.bindings.jgroups.LrcConnection.createFederation(LrcConnection.java:163)
+	at org.portico.lrc.services.federation.handlers.outgoing.CreateFederationHandler.process(CreateFederationHandler.java:74)
+	at org.portico.utils.messaging.MessageSink.process(MessageSink.java:187)
+	at org.portico.impl.hla13.Impl13Helper.processMessage(Impl13Helper.java:123)
+	at org.portico.impl.hla13.Rti13Ambassador.processMessage(Rti13Ambassador.java:5822)
+	at org.portico.impl.hla13.Rti13Ambassador.createFederationExecution(Rti13Ambassador.java:194)
+	at hla.cashdeskClient.client.ClientFederate.runFederate(ClientFederate.java:35)
+	at hla.cashdeskClient.client.ClientFederate.main(ClientFederate.java:184)
+ERROR [main] portico.lrc: FAILURE Register sync point [ReadyToRun] by [ClientFederate]: already announced
+ERROR [main] portico.lrc: federation exists: CashdeskCilentFederation
+org.portico.lrc.compat.JFederationExecutionAlreadyExists: federation exists: CashdeskCilentFederation
+	at org.portico.bindings.jgroups.LrcConnection.createFederation(LrcConnection.java:163)
+	at org.portico.lrc.services.federation.handlers.outgoing.CreateFederationHandler.process(CreateFederationHandler.java:74)
+	at org.portico.utils.messaging.MessageSink.process(MessageSink.java:187)
+	at org.portico.impl.hla13.Impl13Helper.processMessage(Impl13Helper.java:123)
+	at org.portico.impl.hla13.Rti13Ambassador.processMessage(Rti13Ambassador.java:5822)
+	at org.portico.impl.hla13.Rti13Ambassador.createFederationExecution(Rti13Ambassador.java:194)
+	at hla.cashdeskClient.gui.GuiFederate.runFederate(GuiFederate.java:29)
+	at hla.cashdeskClient.gui.GuiFederate.main(GuiFederate.java:148)
+ERROR [main] portico.lrc: FAILURE Regiser sync point [ReadyToRun] by [GuiFederate]: already registered
+ERROR [main] portico.lrc: FAILURE Register sync point [ReadyToRun] by [GuiFederate]: label already registered
+ERROR [main] portico.lrc: federation exists: CashdeskCilentFederation
+org.portico.lrc.compat.JFederationExecutionAlreadyExists: federation exists: CashdeskCilentFederation
+	at org.portico.bindings.jgroups.LrcConnection.createFederation(LrcConnection.java:163)
+	at org.portico.lrc.services.federation.handlers.outgoing.CreateFederationHandler.process(CreateFederationHandler.java:74)
+	at org.portico.utils.messaging.MessageSink.process(MessageSink.java:187)
+	at org.portico.impl.hla13.Impl13Helper.processMessage(Impl13Helper.java:123)
+	at org.portico.impl.hla13.Rti13Ambassador.processMessage(Rti13Ambassador.java:5822)
+	at org.portico.impl.hla13.Rti13Ambassador.createFederationExecution(Rti13Ambassador.java:194)
+	at hla.cashdeskClient.queue.QueueFederate.runFederate(QueueFederate.java:38)
+	at hla.cashdeskClient.queue.QueueFederate.main(QueueFederate.java:283)
+ERROR [main] portico.lrc: FAILURE Regiser sync point [ReadyToRun] by [QueueFederate]: already registered
+ERROR [main] portico.lrc: FAILURE Register sync point [ReadyToRun] by [QueueFederate]: label already registered
+ERROR [main] portico.lrc: federation exists: CashdeskCilentFederation
+org.portico.lrc.compat.JFederationExecutionAlreadyExists: federation exists: CashdeskCilentFederation
+	at org.portico.bindings.jgroups.LrcConnection.createFederation(LrcConnection.java:163)
+	at org.portico.lrc.services.federation.handlers.outgoing.CreateFederationHandler.process(CreateFederationHandler.java:74)
+	at org.portico.utils.messaging.MessageSink.process(MessageSink.java:187)
+	at org.portico.impl.hla13.Impl13Helper.processMessage(Impl13Helper.java:123)
+	at org.portico.impl.hla13.Rti13Ambassador.processMessage(Rti13Ambassador.java:5822)
+	at org.portico.impl.hla13.Rti13Ambassador.createFederationExecution(Rti13Ambassador.java:194)
+	at hla.cashdeskClient.statistics.StatisticsFederate.runFederate(StatisticsFederate.java:42)
+	at hla.cashdeskClient.statistics.StatisticsFederate.main(StatisticsFederate.java:261)
+ERROR [main] portico.lrc: FAILURE Regiser sync point [ReadyToRun] by [StatisticsFederate]: already registered
+ERROR [main] portico.lrc: FAILURE Register sync point [ReadyToRun] by [StatisticsFederate]: label already registered
+ERROR [main] portico.lrc: federation exists: CashdeskCilentFederation
+org.portico.lrc.compat.JFederationExecutionAlreadyExists: federation exists: CashdeskCilentFederation
+	at org.portico.bindings.jgroups.LrcConnection.createFederation(LrcConnection.java:163)
+	at org.portico.lrc.services.federation.handlers.outgoing.CreateFederationHandler.process(CreateFederationHandler.java:74)
+	at org.portico.utils.messaging.MessageSink.process(MessageSink.java:187)
+	at org.portico.impl.hla13.Impl13Helper.processMessage(Impl13Helper.java:123)
+	at org.portico.impl.hla13.Rti13Ambassador.processMessage(Rti13Ambassador.java:5822)
+	at org.portico.impl.hla13.Rti13Ambassador.createFederationExecution(Rti13Ambassador.java:194)
+	at hla.cashdeskClient.client.ClientFederate.runFederate(ClientFederate.java:35)
+	at hla.cashdeskClient.client.ClientFederate.main(ClientFederate.java:184)
+ERROR [main] portico.lrc: FAILURE Regiser sync point [ReadyToRun] by [ClientFederate]: already registered
+ERROR [main] portico.lrc: FAILURE Register sync point [ReadyToRun] by [ClientFederate]: label already registered
+ERROR [main] portico.lrc: federation exists: CashdeskCilentFederation
+org.portico.lrc.compat.JFederationExecutionAlreadyExists: federation exists: CashdeskCilentFederation
+	at org.portico.bindings.jgroups.LrcConnection.createFederation(LrcConnection.java:163)
+	at org.portico.lrc.services.federation.handlers.outgoing.CreateFederationHandler.process(CreateFederationHandler.java:74)
+	at org.portico.utils.messaging.MessageSink.process(MessageSink.java:187)
+	at org.portico.impl.hla13.Impl13Helper.processMessage(Impl13Helper.java:123)
+	at org.portico.impl.hla13.Rti13Ambassador.processMessage(Rti13Ambassador.java:5822)
+	at org.portico.impl.hla13.Rti13Ambassador.createFederationExecution(Rti13Ambassador.java:194)
+	at hla.cashdeskClient.gui.GuiFederate.runFederate(GuiFederate.java:30)
+	at hla.cashdeskClient.gui.GuiFederate.main(GuiFederate.java:152)
+ERROR [main] portico.lrc: FAILURE Regiser sync point [ReadyToRun] by [GuiFederate]: already registered
+ERROR [main] portico.lrc: FAILURE Register sync point [ReadyToRun] by [GuiFederate]: label already registered
+ERROR [main] portico.lrc: federation exists: CashdeskCilentFederation
+org.portico.lrc.compat.JFederationExecutionAlreadyExists: federation exists: CashdeskCilentFederation
+	at org.portico.bindings.jgroups.LrcConnection.createFederation(LrcConnection.java:163)
+	at org.portico.lrc.services.federation.handlers.outgoing.CreateFederationHandler.process(CreateFederationHandler.java:74)
+	at org.portico.utils.messaging.MessageSink.process(MessageSink.java:187)
+	at org.portico.impl.hla13.Impl13Helper.processMessage(Impl13Helper.java:123)
+	at org.portico.impl.hla13.Rti13Ambassador.processMessage(Rti13Ambassador.java:5822)
+	at org.portico.impl.hla13.Rti13Ambassador.createFederationExecution(Rti13Ambassador.java:194)
+	at hla.cashdeskClient.queue.QueueFederate.runFederate(QueueFederate.java:38)
+	at hla.cashdeskClient.queue.QueueFederate.main(QueueFederate.java:283)
+ERROR [main] portico.lrc: FAILURE Regiser sync point [ReadyToRun] by [QueueFederate]: already registered
+ERROR [main] portico.lrc: FAILURE Register sync point [ReadyToRun] by [QueueFederate]: label already registered
+ERROR [main] portico.lrc: federation exists: CashdeskCilentFederation
+org.portico.lrc.compat.JFederationExecutionAlreadyExists: federation exists: CashdeskCilentFederation
+	at org.portico.bindings.jgroups.LrcConnection.createFederation(LrcConnection.java:163)
+	at org.portico.lrc.services.federation.handlers.outgoing.CreateFederationHandler.process(CreateFederationHandler.java:74)
+	at org.portico.utils.messaging.MessageSink.process(MessageSink.java:187)
+	at org.portico.impl.hla13.Impl13Helper.processMessage(Impl13Helper.java:123)
+	at org.portico.impl.hla13.Rti13Ambassador.processMessage(Rti13Ambassador.java:5822)
+	at org.portico.impl.hla13.Rti13Ambassador.createFederationExecution(Rti13Ambassador.java:194)
+	at hla.cashdeskClient.statistics.StatisticsFederate.runFederate(StatisticsFederate.java:42)
+	at hla.cashdeskClient.statistics.StatisticsFederate.main(StatisticsFederate.java:261)
+ERROR [main] portico.lrc: FAILURE Regiser sync point [ReadyToRun] by [StatisticsFederate]: already registered
+ERROR [main] portico.lrc: FAILURE Register sync point [ReadyToRun] by [StatisticsFederate]: label already registered
+ERROR [main] portico.lrc: federation exists: CashdeskCilentFederation
+org.portico.lrc.compat.JFederationExecutionAlreadyExists: federation exists: CashdeskCilentFederation
+	at org.portico.bindings.jgroups.LrcConnection.createFederation(LrcConnection.java:163)
+	at org.portico.lrc.services.federation.handlers.outgoing.CreateFederationHandler.process(CreateFederationHandler.java:74)
+	at org.portico.utils.messaging.MessageSink.process(MessageSink.java:187)
+	at org.portico.impl.hla13.Impl13Helper.processMessage(Impl13Helper.java:123)
+	at org.portico.impl.hla13.Rti13Ambassador.processMessage(Rti13Ambassador.java:5822)
+	at org.portico.impl.hla13.Rti13Ambassador.createFederationExecution(Rti13Ambassador.java:194)
+	at hla.cashdeskClient.client.ClientFederate.runFederate(ClientFederate.java:35)
+	at hla.cashdeskClient.client.ClientFederate.main(ClientFederate.java:184)
+ERROR [main] portico.lrc: FAILURE Regiser sync point [ReadyToRun] by [ClientFederate]: already registered
+ERROR [main] portico.lrc: FAILURE Register sync point [ReadyToRun] by [ClientFederate]: label already registered
+ERROR [main] portico.lrc: federation exists: CashdeskCilentFederation
+org.portico.lrc.compat.JFederationExecutionAlreadyExists: federation exists: CashdeskCilentFederation
+	at org.portico.bindings.jgroups.LrcConnection.createFederation(LrcConnection.java:163)
+	at org.portico.lrc.services.federation.handlers.outgoing.CreateFederationHandler.process(CreateFederationHandler.java:74)
+	at org.portico.utils.messaging.MessageSink.process(MessageSink.java:187)
+	at org.portico.impl.hla13.Impl13Helper.processMessage(Impl13Helper.java:123)
+	at org.portico.impl.hla13.Rti13Ambassador.processMessage(Rti13Ambassador.java:5822)
+	at org.portico.impl.hla13.Rti13Ambassador.createFederationExecution(Rti13Ambassador.java:194)
+	at hla.cashdeskClient.queue.QueueFederate.runFederate(QueueFederate.java:38)
+	at hla.cashdeskClient.queue.QueueFederate.main(QueueFederate.java:283)
+ERROR [main] portico.lrc: FAILURE Regiser sync point [ReadyToRun] by [QueueFederate]: already registered
+ERROR [main] portico.lrc: FAILURE Register sync point [ReadyToRun] by [QueueFederate]: label already registered
+DEBUG [main] portico.lrc: Creating new LRC
+DEBUG [main] portico.lrc: Messaging framework configuration complete
+INFO  [main] portico.lrc: LRC initialized (HLA version: HLA13)
+INFO  [main] portico.lrc: Opening LrcConnection
+INFO  [main] portico.lrc.jgroups: Starting JGroups LrcConnection...
+DEBUG [main] portico.lrc: Parsing FED file (format=ieee1516): file:/C:/Users/MrGumis/Desktop/HLA%202.0/Symulacja_Projekt/cashdeskclient.xml
+DEBUG [main] portico.lrc: ATTEMPT Create federation execution [CashdeskCilentFederation]
+DEBUG [main] portico.lrc: Creating new LRC
+DEBUG [main] portico.lrc: Messaging framework configuration complete
+INFO  [main] portico.lrc: LRC initialized (HLA version: HLA13)
+INFO  [main] portico.lrc: Opening LrcConnection
+INFO  [main] portico.lrc.jgroups: Starting JGroups LrcConnection...
+DEBUG [main] portico.lrc: Parsing FED file (format=ieee1516): file:/C:/Users/MrGumis/Desktop/HLA%202.0/Symulacja_Projekt/cashdeskclient.xml
+DEBUG [main] portico.lrc: ATTEMPT Create federation execution [CashdeskCilentFederation]
+DEBUG [main] portico.lrc.jgroups: SUCCESS connected to channel [CashdeskCilentFederation]
+INFO  [Incoming-4,CashdeskCilentFederation,DESKTOP-1151MQ7-59601] portico.lrc.jgroups: Federation [CashdeskCilentFederation] has been created
+INFO  [main] portico.lrc.jgroups: SUCCESS createFederation: name=CashdeskCilentFederation
+INFO  [main] portico.lrc: SUCCESS Created federation execution [CashdeskCilentFederation]
+DEBUG [main] portico.lrc: ATTEMPT Join federate [CashdeskFederate] to federation [CashdeskCilentFederation]
+INFO  [Incoming-3,CashdeskCilentFederation,DESKTOP-1151MQ7-59601] portico.lrc.jgroups: Federate [CashdeskFederate] joined federation [CashdeskCilentFederation]
+INFO  [main] portico.lrc: SUCCESS Joined federate [CashdeskFederate] to federation [CashdeskCilentFederation]: handle=1
+INFO  [main] portico.lrc: FOM in use for federation [CashdeskCilentFederation]:
+== Beginning Object Model Render ==
+===================================
+==        Routing Spaces         ==
+===================================
+===================================
+==        Object Classes         ==
+===================================
+-> (object class): HLAobjectRoot (handle: 501)
+       (attribute): HLAprivilegeToDeleteObject, handle=511, order=TIMESTAMP, transport=RELIABLE, space=null
+    -> (object class): HLAmanager (handle: 1)
+        -> (object class): HLAfederation (handle: 3)
+               (attribute): HLAFDDID,                      handle=36, order=RECEIVE, transport=RELIABLE, space=null
+               (attribute): HLARTIversion,                 handle=35, order=RECEIVE, transport=RELIABLE, space=null
+               (attribute): HLAlastSaveName,               handle=37, order=RECEIVE, transport=RELIABLE, space=null
+               (attribute): HLAnextSaveName,               handle=39, order=RECEIVE, transport=RELIABLE, space=null
+               (attribute): HLAlastSaveTime,               handle=38, order=RECEIVE, transport=RELIABLE, space=null
+               (attribute): HLAconveyRegionDesignatorSets, handle=42, order=RECEIVE, transport=RELIABLE, space=null
+               (attribute): HLAnextSaveTime,               handle=40, order=RECEIVE, transport=RELIABLE, space=null
+               (attribute): HLAfederationName,             handle=33, order=RECEIVE, transport=RELIABLE, space=null
+               (attribute): HLAfederatesInFederation,      handle=34, order=RECEIVE, transport=RELIABLE, space=null
+               (attribute): HLAautoProvide,                handle=41, order=RECEIVE, transport=RELIABLE, space=null
+        -> (object class): HLAfederate (handle: 2)
+               (attribute): HLAobjectInstancesReflected,        handle=26, order=RECEIVE, transport=RELIABLE, space=null
+               (attribute): HLAfederateHost,                    handle=6, order=RECEIVE, transport=RELIABLE, space=null
+               (attribute): HLAROlength,                        handle=19, order=RECEIVE, transport=RELIABLE, space=null
+               (attribute): HLAobjectInstancesUpdated,          handle=25, order=RECEIVE, transport=RELIABLE, space=null
+               (attribute): HLAGALT,                            handle=17, order=RECEIVE, transport=RELIABLE, space=null
+               (attribute): HLAasynchronousDelivery,            handle=11, order=RECEIVE, transport=RELIABLE, space=null
+               (attribute): HLAtimeRegulating,                  handle=10, order=RECEIVE, transport=RELIABLE, space=null
+               (attribute): HLAobjectInstancesRemoved,          handle=28, order=RECEIVE, transport=RELIABLE, space=null
+               (attribute): HLAobjectInstancesRegistered,       handle=29, order=RECEIVE, transport=RELIABLE, space=null
+               (attribute): HLAtimeAdvancingTime,               handle=32, order=RECEIVE, transport=RELIABLE, space=null
+               (attribute): HLAlookahead,                       handle=15, order=RECEIVE, transport=RELIABLE, space=null
+               (attribute): HLAobjectInstancesDiscovered,       handle=30, order=RECEIVE, transport=RELIABLE, space=null
+               (attribute): HLATSOlength,                       handle=20, order=RECEIVE, transport=RELIABLE, space=null
+               (attribute): HLARTIversion,                      handle=7, order=RECEIVE, transport=RELIABLE, space=null
+               (attribute): HLALBTS,                            handle=16, order=RECEIVE, transport=RELIABLE, space=null
+               (attribute): HLAfederateHandle,                  handle=4, order=RECEIVE, transport=RELIABLE, space=null
+               (attribute): HLAobjectInstancesThatCanBeDeleted, handle=24, order=RECEIVE, transport=RELIABLE, space=null
+               (attribute): HLAtimeManagerState,                handle=13, order=RECEIVE, transport=RELIABLE, space=null
+               (attribute): HLAFDDID,                           handle=8, order=RECEIVE, transport=RELIABLE, space=null
+               (attribute): HLAreflectionsReceived,             handle=21, order=RECEIVE, transport=RELIABLE, space=null
+               (attribute): HLAinteractionsSent,                handle=23, order=RECEIVE, transport=RELIABLE, space=null
+               (attribute): HLAobjectInstancesDeleted,          handle=27, order=RECEIVE, transport=RELIABLE, space=null
+               (attribute): HLALITS,                            handle=18, order=RECEIVE, transport=RELIABLE, space=null
+               (attribute): HLAlogicalTime,                     handle=14, order=RECEIVE, transport=RELIABLE, space=null
+               (attribute): HLAfederateState,                   handle=12, order=RECEIVE, transport=RELIABLE, space=null
+               (attribute): HLAtimeGrantedTime,                 handle=31, order=RECEIVE, transport=RELIABLE, space=null
+               (attribute): HLAfederateType,                    handle=5, order=RECEIVE, transport=RELIABLE, space=null
+               (attribute): HLAtimeConstrained,                 handle=9, order=RECEIVE, transport=RELIABLE, space=null
+               (attribute): HLAinteractionsReceived,            handle=22, order=RECEIVE, transport=RELIABLE, space=null
+    -> (object class): Klient (handle: 502)
+           (attribute): liczbaProduktow, handle=504, order=TIMESTAMP, transport=RELIABLE, space=null
+           (attribute): nrKolejki,       handle=503, order=TIMESTAMP, transport=RELIABLE, space=null
+    -> (object class): Statystyki (handle: 505)
+           (attribute): czasOczekiwania,           handle=510, order=TIMESTAMP, transport=RELIABLE, space=null
+           (attribute): srDlugoscKolejki,          handle=507, order=TIMESTAMP, transport=RELIABLE, space=null
+           (attribute): srCzasOczekiwaniaWKolejce, handle=506, order=TIMESTAMP, transport=RELIABLE, space=null
+           (attribute): nrKasy,                    handle=508, order=TIMESTAMP, transport=RELIABLE, space=null
+           (attribute): dlugoscKolejki,            handle=509, order=TIMESTAMP, transport=RELIABLE, space=null
+===================================
+==      Interaction Classes      ==
+===================================
+-> (interaction class): HLAinteractionRoot (handle: 512, order=RECEIVE, transport=RELIABLE, space=null)
+    -> (interaction class): liczbaKas (handle: 513, order=RECEIVE, transport=RELIABLE, space=null)
+           (parameter): ilczbaKas, handle=514
+    -> (interaction class): czasOczekiwania (handle: 525, order=RECEIVE, transport=RELIABLE, space=null)
+           (parameter): numerKolejki, handle=526
+           (parameter): czas,         handle=527
+    -> (interaction class): najkrotszaKolejka (handle: 517, order=RECEIVE, transport=RELIABLE, space=null)
+           (parameter): numerKolejki, handle=518
+    -> (interaction class): obslugaKlienta (handle: 519, order=RECEIVE, transport=RELIABLE, space=null)
+           (parameter): numerKolejki,    handle=520
+           (parameter): liczbaProduktow, handle=521
+    -> (interaction class): koniecObslugi (handle: 515, order=RECEIVE, transport=RELIABLE, space=null)
+           (parameter): numerKolejki, handle=516
+    -> (interaction class): dlugoscKolejki (handle: 522, order=RECEIVE, transport=RELIABLE, space=null)
+           (parameter): numerKolejki, handle=523
+           (parameter): liczbaOsob,   handle=524
+
+DEBUG [main] portico.lrc: ATTEMPT Register sync point [ReadyToRun] by [CashdeskFederate]
+DEBUG [main] portico.lrc: PENDING Register synchronization point [ReadyToRun] by [CashdeskFederate]
+INFO  [main] portico.lrc: SUCCESS Registered sync point [ReadyToRun] by [CashdeskFederate]
+DEBUG [main] portico.lrc: DISCARD Discovery of object (not subscribed): object=1
+DEBUG [main] portico.lrc.jgroups: SUCCESS connected to channel [CashdeskCilentFederation]
+INFO  [main] portico.lrc.jgroups: FAILURE createFederation: already exists, name=CashdeskCilentFederation
+ERROR [main] portico.lrc: federation exists: CashdeskCilentFederation
+org.portico.lrc.compat.JFederationExecutionAlreadyExists: federation exists: CashdeskCilentFederation
+	at org.portico.bindings.jgroups.LrcConnection.createFederation(LrcConnection.java:163)
+	at org.portico.lrc.services.federation.handlers.outgoing.CreateFederationHandler.process(CreateFederationHandler.java:74)
+	at org.portico.utils.messaging.MessageSink.process(MessageSink.java:187)
+	at org.portico.impl.hla13.Impl13Helper.processMessage(Impl13Helper.java:123)
+	at org.portico.impl.hla13.Rti13Ambassador.processMessage(Rti13Ambassador.java:5822)
+	at org.portico.impl.hla13.Rti13Ambassador.createFederationExecution(Rti13Ambassador.java:194)
+	at hla.cashdeskClient.client.ClientFederate.runFederate(ClientFederate.java:35)
+	at hla.cashdeskClient.client.ClientFederate.main(ClientFederate.java:184)
+DEBUG [main] portico.lrc: ATTEMPT Join federate [ClientFederate] to federation [CashdeskCilentFederation]
+INFO  [Incoming-3,CashdeskCilentFederation,DESKTOP-1151MQ7-16167] portico.lrc.jgroups: Federate [ClientFederate] joined federation [CashdeskCilentFederation]
+INFO  [Incoming-3,CashdeskCilentFederation,DESKTOP-1151MQ7-59601] portico.lrc.jgroups: Federate [ClientFederate] joined federation [CashdeskCilentFederation]
+DEBUG [Incoming-3,CashdeskCilentFederation,DESKTOP-1151MQ7-59601] portico.lrc: @REMOTE RoleCall received [handle:2,name:ClientFederate]
+DEBUG [Incoming-3,CashdeskCilentFederation,DESKTOP-1151MQ7-16167] portico.lrc: @REMOTE RoleCall received [handle:1,name:CashdeskFederate]
+DEBUG [Incoming-3,CashdeskCilentFederation,DESKTOP-1151MQ7-16167] portico.lrc: @REMOTE Synchronization point [ReadyToRun] ANNOUNCED by [null]
+INFO  [Incoming-3,CashdeskCilentFederation,DESKTOP-1151MQ7-16167] portico.lrc: Synchronization point [ReadyToRun] ANNOUNCED by [null] to [ClientFederate]
+INFO  [main] portico.lrc: SUCCESS Joined federate [ClientFederate] to federation [CashdeskCilentFederation]: handle=2
+INFO  [main] portico.lrc: FOM in use for federation [CashdeskCilentFederation]:
+== Beginning Object Model Render ==
+===================================
+==        Routing Spaces         ==
+===================================
+===================================
+==        Object Classes         ==
+===================================
+-> (object class): HLAobjectRoot (handle: 501)
+       (attribute): HLAprivilegeToDeleteObject, handle=511, order=TIMESTAMP, transport=RELIABLE, space=null
+    -> (object class): Klient (handle: 502)
+           (attribute): liczbaProduktow, handle=504, order=TIMESTAMP, transport=RELIABLE, space=null
+           (attribute): nrKolejki,       handle=503, order=TIMESTAMP, transport=RELIABLE, space=null
+    -> (object class): HLAmanager (handle: 1)
+        -> (object class): HLAfederation (handle: 3)
+               (attribute): HLAFDDID,                      handle=36, order=RECEIVE, transport=RELIABLE, space=null
+               (attribute): HLARTIversion,                 handle=35, order=RECEIVE, transport=RELIABLE, space=null
+               (attribute): HLAlastSaveTime,               handle=38, order=RECEIVE, transport=RELIABLE, space=null
+               (attribute): HLAautoProvide,                handle=41, order=RECEIVE, transport=RELIABLE, space=null
+               (attribute): HLAconveyRegionDesignatorSets, handle=42, order=RECEIVE, transport=RELIABLE, space=null
+               (attribute): HLAlastSaveName,               handle=37, order=RECEIVE, transport=RELIABLE, space=null
+               (attribute): HLAnextSaveName,               handle=39, order=RECEIVE, transport=RELIABLE, space=null
+               (attribute): HLAnextSaveTime,               handle=40, order=RECEIVE, transport=RELIABLE, space=null
+               (attribute): HLAfederationName,             handle=33, order=RECEIVE, transport=RELIABLE, space=null
+               (attribute): HLAfederatesInFederation,      handle=34, order=RECEIVE, transport=RELIABLE, space=null
+        -> (object class): HLAfederate (handle: 2)
+               (attribute): HLARTIversion,                      handle=7, order=RECEIVE, transport=RELIABLE, space=null
+               (attribute): HLAtimeRegulating,                  handle=10, order=RECEIVE, transport=RELIABLE, space=null
+               (attribute): HLAobjectInstancesRegistered,       handle=29, order=RECEIVE, transport=RELIABLE, space=null
+               (attribute): HLALITS,                            handle=18, order=RECEIVE, transport=RELIABLE, space=null
+               (attribute): HLAtimeAdvancingTime,               handle=32, order=RECEIVE, transport=RELIABLE, space=null
+               (attribute): HLAfederateState,                   handle=12, order=RECEIVE, transport=RELIABLE, space=null
+               (attribute): HLAlogicalTime,                     handle=14, order=RECEIVE, transport=RELIABLE, space=null
+               (attribute): HLATSOlength,                       handle=20, order=RECEIVE, transport=RELIABLE, space=null
+               (attribute): HLAobjectInstancesDiscovered,       handle=30, order=RECEIVE, transport=RELIABLE, space=null
+               (attribute): HLAobjectInstancesReflected,        handle=26, order=RECEIVE, transport=RELIABLE, space=null
+               (attribute): HLAtimeManagerState,                handle=13, order=RECEIVE, transport=RELIABLE, space=null
+               (attribute): HLAinteractionsReceived,            handle=22, order=RECEIVE, transport=RELIABLE, space=null
+               (attribute): HLAfederateType,                    handle=5, order=RECEIVE, transport=RELIABLE, space=null
+               (attribute): HLAobjectInstancesThatCanBeDeleted, handle=24, order=RECEIVE, transport=RELIABLE, space=null
+               (attribute): HLALBTS,                            handle=16, order=RECEIVE, transport=RELIABLE, space=null
+               (attribute): HLAtimeConstrained,                 handle=9, order=RECEIVE, transport=RELIABLE, space=null
+               (attribute): HLAreflectionsReceived,             handle=21, order=RECEIVE, transport=RELIABLE, space=null
+               (attribute): HLAlookahead,                       handle=15, order=RECEIVE, transport=RELIABLE, space=null
+               (attribute): HLAFDDID,                           handle=8, order=RECEIVE, transport=RELIABLE, space=null
+               (attribute): HLAGALT,                            handle=17, order=RECEIVE, transport=RELIABLE, space=null
+               (attribute): HLAfederateHandle,                  handle=4, order=RECEIVE, transport=RELIABLE, space=null
+               (attribute): HLAfederateHost,                    handle=6, order=RECEIVE, transport=RELIABLE, space=null
+               (attribute): HLAobjectInstancesUpdated,          handle=25, order=RECEIVE, transport=RELIABLE, space=null
+               (attribute): HLAtimeGrantedTime,                 handle=31, order=RECEIVE, transport=RELIABLE, space=null
+               (attribute): HLAasynchronousDelivery,            handle=11, order=RECEIVE, transport=RELIABLE, space=null
+               (attribute): HLAobjectInstancesDeleted,          handle=27, order=RECEIVE, transport=RELIABLE, space=null
+               (attribute): HLAinteractionsSent,                handle=23, order=RECEIVE, transport=RELIABLE, space=null
+               (attribute): HLAROlength,                        handle=19, order=RECEIVE, transport=RELIABLE, space=null
+               (attribute): HLAobjectInstancesRemoved,          handle=28, order=RECEIVE, transport=RELIABLE, space=null
+    -> (object class): Statystyki (handle: 505)
+           (attribute): czasOczekiwania,           handle=510, order=TIMESTAMP, transport=RELIABLE, space=null
+           (attribute): dlugoscKolejki,            handle=509, order=TIMESTAMP, transport=RELIABLE, space=null
+           (attribute): nrKasy,                    handle=508, order=TIMESTAMP, transport=RELIABLE, space=null
+           (attribute): srDlugoscKolejki,          handle=507, order=TIMESTAMP, transport=RELIABLE, space=null
+           (attribute): srCzasOczekiwaniaWKolejce, handle=506, order=TIMESTAMP, transport=RELIABLE, space=null
+===================================
+==      Interaction Classes      ==
+===================================
+-> (interaction class): HLAinteractionRoot (handle: 512, order=RECEIVE, transport=RELIABLE, space=null)
+    -> (interaction class): dlugoscKolejki (handle: 522, order=RECEIVE, transport=RELIABLE, space=null)
+           (parameter): numerKolejki, handle=523
+           (parameter): liczbaOsob,   handle=524
+    -> (interaction class): liczbaKas (handle: 513, order=RECEIVE, transport=RELIABLE, space=null)
+           (parameter): ilczbaKas, handle=514
+    -> (interaction class): czasOczekiwania (handle: 525, order=RECEIVE, transport=RELIABLE, space=null)
+           (parameter): numerKolejki, handle=526
+           (parameter): czas,         handle=527
+    -> (interaction class): koniecObslugi (handle: 515, order=RECEIVE, transport=RELIABLE, space=null)
+           (parameter): numerKolejki, handle=516
+    -> (interaction class): najkrotszaKolejka (handle: 517, order=RECEIVE, transport=RELIABLE, space=null)
+           (parameter): numerKolejki, handle=518
+    -> (interaction class): obslugaKlienta (handle: 519, order=RECEIVE, transport=RELIABLE, space=null)
+           (parameter): liczbaProduktow, handle=521
+           (parameter): numerKolejki,    handle=520
+
+DEBUG [main] portico.lrc: ATTEMPT Register sync point [ReadyToRun] by [ClientFederate]
+ERROR [main] portico.lrc: FAILURE Regiser sync point [ReadyToRun] by [ClientFederate]: already registered
+ERROR [main] portico.lrc: FAILURE Register sync point [ReadyToRun] by [ClientFederate]: label already registered
+DEBUG [main] portico.lrc: Creating new LRC
+DEBUG [main] portico.lrc: Messaging framework configuration complete
+INFO  [main] portico.lrc: LRC initialized (HLA version: HLA13)
+INFO  [main] portico.lrc: Opening LrcConnection
+INFO  [main] portico.lrc.jgroups: Starting JGroups LrcConnection...
+DEBUG [main] portico.lrc: Parsing FED file (format=ieee1516): file:/C:/Users/MrGumis/Desktop/HLA%202.0/Symulacja_Projekt/cashdeskclient.xml
+DEBUG [main] portico.lrc: ATTEMPT Create federation execution [CashdeskCilentFederation]
+DEBUG [main] portico.lrc.jgroups: SUCCESS connected to channel [CashdeskCilentFederation]
+INFO  [main] portico.lrc.jgroups: FAILURE createFederation: already exists, name=CashdeskCilentFederation
+ERROR [main] portico.lrc: federation exists: CashdeskCilentFederation
+org.portico.lrc.compat.JFederationExecutionAlreadyExists: federation exists: CashdeskCilentFederation
+	at org.portico.bindings.jgroups.LrcConnection.createFederation(LrcConnection.java:163)
+	at org.portico.lrc.services.federation.handlers.outgoing.CreateFederationHandler.process(CreateFederationHandler.java:74)
+	at org.portico.utils.messaging.MessageSink.process(MessageSink.java:187)
+	at org.portico.impl.hla13.Impl13Helper.processMessage(Impl13Helper.java:123)
+	at org.portico.impl.hla13.Rti13Ambassador.processMessage(Rti13Ambassador.java:5822)
+	at org.portico.impl.hla13.Rti13Ambassador.createFederationExecution(Rti13Ambassador.java:194)
+	at hla.cashdeskClient.queue.QueueFederate.runFederate(QueueFederate.java:38)
+	at hla.cashdeskClient.queue.QueueFederate.main(QueueFederate.java:283)
+DEBUG [main] portico.lrc: ATTEMPT Join federate [QueueFederate] to federation [CashdeskCilentFederation]
+INFO  [Incoming-4,CashdeskCilentFederation,DESKTOP-1151MQ7-53957] portico.lrc.jgroups: Federate [QueueFederate] joined federation [CashdeskCilentFederation]
+INFO  [Incoming-4,CashdeskCilentFederation,DESKTOP-1151MQ7-59601] portico.lrc.jgroups: Federate [QueueFederate] joined federation [CashdeskCilentFederation]
+INFO  [Incoming-4,CashdeskCilentFederation,DESKTOP-1151MQ7-16167] portico.lrc.jgroups: Federate [QueueFederate] joined federation [CashdeskCilentFederation]
+DEBUG [Incoming-4,CashdeskCilentFederation,DESKTOP-1151MQ7-16167] portico.lrc: @REMOTE RoleCall received [handle:3,name:QueueFederate]
+DEBUG [Incoming-4,CashdeskCilentFederation,DESKTOP-1151MQ7-59601] portico.lrc: @REMOTE RoleCall received [handle:3,name:QueueFederate]
+DEBUG [Incoming-4,CashdeskCilentFederation,DESKTOP-1151MQ7-53957] portico.lrc: @REMOTE RoleCall received [handle:1,name:CashdeskFederate]
+DEBUG [Incoming-4,CashdeskCilentFederation,DESKTOP-1151MQ7-53957] portico.lrc: @REMOTE Synchronization point [ReadyToRun] ANNOUNCED by [null]
+INFO  [Incoming-4,CashdeskCilentFederation,DESKTOP-1151MQ7-53957] portico.lrc: Synchronization point [ReadyToRun] ANNOUNCED by [null] to [QueueFederate]
+DEBUG [Incoming-3,CashdeskCilentFederation,DESKTOP-1151MQ7-53957] portico.lrc: @REMOTE RoleCall received [handle:2,name:ClientFederate]
+INFO  [main] portico.lrc: SUCCESS Joined federate [QueueFederate] to federation [CashdeskCilentFederation]: handle=3
+INFO  [main] portico.lrc: FOM in use for federation [CashdeskCilentFederation]:
+== Beginning Object Model Render ==
+===================================
+==        Routing Spaces         ==
+===================================
+===================================
+==        Object Classes         ==
+===================================
+-> (object class): HLAobjectRoot (handle: 501)
+       (attribute): HLAprivilegeToDeleteObject, handle=511, order=TIMESTAMP, transport=RELIABLE, space=null
+    -> (object class): HLAmanager (handle: 1)
+        -> (object class): HLAfederate (handle: 2)
+               (attribute): HLARTIversion,                      handle=7, order=RECEIVE, transport=RELIABLE, space=null
+               (attribute): HLAtimeRegulating,                  handle=10, order=RECEIVE, transport=RELIABLE, space=null
+               (attribute): HLAobjectInstancesRegistered,       handle=29, order=RECEIVE, transport=RELIABLE, space=null
+               (attribute): HLALITS,                            handle=18, order=RECEIVE, transport=RELIABLE, space=null
+               (attribute): HLAtimeAdvancingTime,               handle=32, order=RECEIVE, transport=RELIABLE, space=null
+               (attribute): HLAfederateState,                   handle=12, order=RECEIVE, transport=RELIABLE, space=null
+               (attribute): HLAlogicalTime,                     handle=14, order=RECEIVE, transport=RELIABLE, space=null
+               (attribute): HLATSOlength,                       handle=20, order=RECEIVE, transport=RELIABLE, space=null
+               (attribute): HLAobjectInstancesDiscovered,       handle=30, order=RECEIVE, transport=RELIABLE, space=null
+               (attribute): HLAobjectInstancesReflected,        handle=26, order=RECEIVE, transport=RELIABLE, space=null
+               (attribute): HLAtimeManagerState,                handle=13, order=RECEIVE, transport=RELIABLE, space=null
+               (attribute): HLAinteractionsReceived,            handle=22, order=RECEIVE, transport=RELIABLE, space=null
+               (attribute): HLAfederateType,                    handle=5, order=RECEIVE, transport=RELIABLE, space=null
+               (attribute): HLAobjectInstancesThatCanBeDeleted, handle=24, order=RECEIVE, transport=RELIABLE, space=null
+               (attribute): HLALBTS,                            handle=16, order=RECEIVE, transport=RELIABLE, space=null
+               (attribute): HLAtimeConstrained,                 handle=9, order=RECEIVE, transport=RELIABLE, space=null
+               (attribute): HLAreflectionsReceived,             handle=21, order=RECEIVE, transport=RELIABLE, space=null
+               (attribute): HLAlookahead,                       handle=15, order=RECEIVE, transport=RELIABLE, space=null
+               (attribute): HLAFDDID,                           handle=8, order=RECEIVE, transport=RELIABLE, space=null
+               (attribute): HLAGALT,                            handle=17, order=RECEIVE, transport=RELIABLE, space=null
+               (attribute): HLAfederateHandle,                  handle=4, order=RECEIVE, transport=RELIABLE, space=null
+               (attribute): HLAfederateHost,                    handle=6, order=RECEIVE, transport=RELIABLE, space=null
+               (attribute): HLAobjectInstancesUpdated,          handle=25, order=RECEIVE, transport=RELIABLE, space=null
+               (attribute): HLAtimeGrantedTime,                 handle=31, order=RECEIVE, transport=RELIABLE, space=null
+               (attribute): HLAasynchronousDelivery,            handle=11, order=RECEIVE, transport=RELIABLE, space=null
+               (attribute): HLAobjectInstancesDeleted,          handle=27, order=RECEIVE, transport=RELIABLE, space=null
+               (attribute): HLAinteractionsSent,                handle=23, order=RECEIVE, transport=RELIABLE, space=null
+               (attribute): HLAROlength,                        handle=19, order=RECEIVE, transport=RELIABLE, space=null
+               (attribute): HLAobjectInstancesRemoved,          handle=28, order=RECEIVE, transport=RELIABLE, space=null
+        -> (object class): HLAfederation (handle: 3)
+               (attribute): HLAFDDID,                      handle=36, order=RECEIVE, transport=RELIABLE, space=null
+               (attribute): HLARTIversion,                 handle=35, order=RECEIVE, transport=RELIABLE, space=null
+               (attribute): HLAlastSaveTime,               handle=38, order=RECEIVE, transport=RELIABLE, space=null
+               (attribute): HLAautoProvide,                handle=41, order=RECEIVE, transport=RELIABLE, space=null
+               (attribute): HLAconveyRegionDesignatorSets, handle=42, order=RECEIVE, transport=RELIABLE, space=null
+               (attribute): HLAlastSaveName,               handle=37, order=RECEIVE, transport=RELIABLE, space=null
+               (attribute): HLAnextSaveName,               handle=39, order=RECEIVE, transport=RELIABLE, space=null
+               (attribute): HLAnextSaveTime,               handle=40, order=RECEIVE, transport=RELIABLE, space=null
+               (attribute): HLAfederationName,             handle=33, order=RECEIVE, transport=RELIABLE, space=null
+               (attribute): HLAfederatesInFederation,      handle=34, order=RECEIVE, transport=RELIABLE, space=null
+    -> (object class): Klient (handle: 502)
+           (attribute): liczbaProduktow, handle=504, order=TIMESTAMP, transport=RELIABLE, space=null
+           (attribute): nrKolejki,       handle=503, order=TIMESTAMP, transport=RELIABLE, space=null
+    -> (object class): Statystyki (handle: 505)
+           (attribute): czasOczekiwania,           handle=510, order=TIMESTAMP, transport=RELIABLE, space=null
+           (attribute): dlugoscKolejki,            handle=509, order=TIMESTAMP, transport=RELIABLE, space=null
+           (attribute): nrKasy,                    handle=508, order=TIMESTAMP, transport=RELIABLE, space=null
+           (attribute): srDlugoscKolejki,          handle=507, order=TIMESTAMP, transport=RELIABLE, space=null
+           (attribute): srCzasOczekiwaniaWKolejce, handle=506, order=TIMESTAMP, transport=RELIABLE, space=null
+===================================
+==      Interaction Classes      ==
+===================================
+-> (interaction class): HLAinteractionRoot (handle: 512, order=RECEIVE, transport=RELIABLE, space=null)
+    -> (interaction class): liczbaKas (handle: 513, order=RECEIVE, transport=RELIABLE, space=null)
+           (parameter): ilczbaKas, handle=514
+    -> (interaction class): koniecObslugi (handle: 515, order=RECEIVE, transport=RELIABLE, space=null)
+           (parameter): numerKolejki, handle=516
+    -> (interaction class): czasOczekiwania (handle: 525, order=RECEIVE, transport=RELIABLE, space=null)
+           (parameter): numerKolejki, handle=526
+           (parameter): czas,         handle=527
+    -> (interaction class): dlugoscKolejki (handle: 522, order=RECEIVE, transport=RELIABLE, space=null)
+           (parameter): liczbaOsob,   handle=524
+           (parameter): numerKolejki, handle=523
+    -> (interaction class): najkrotszaKolejka (handle: 517, order=RECEIVE, transport=RELIABLE, space=null)
+           (parameter): numerKolejki, handle=518
+    -> (interaction class): obslugaKlienta (handle: 519, order=RECEIVE, transport=RELIABLE, space=null)
+           (parameter): liczbaProduktow, handle=521
+           (parameter): numerKolejki,    handle=520
+
+DEBUG [main] portico.lrc: ATTEMPT Register sync point [ReadyToRun] by [QueueFederate]
+ERROR [main] portico.lrc: FAILURE Regiser sync point [ReadyToRun] by [QueueFederate]: already registered
+ERROR [main] portico.lrc: FAILURE Register sync point [ReadyToRun] by [QueueFederate]: label already registered

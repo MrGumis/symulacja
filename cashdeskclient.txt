@@ -1,0 +1,44 @@
+<?xml version="1.0"?>
+<objectModel version="1.0" type="FOM" name="CashdeskClientFederation" DTDversion="1516.2>"
+<objects>
+<objectClass name="HLAobjectRoot" sharing="PublishSubscribe" order="Receive" transportation="HLAreliable" dimensions="NA">
+<attribute name="HLAprivilegeToDeleteObject" sharing="PublishSubscribe" order="TimeStamp" transportation="HLAreliable" dimensions="NA" ownership="NoTransfer" updateCondition="NA" updateType="NA" dataType="NA"/>
+<objectClass name="Klient" sharing="PublishSubscribe" semantics="NA">
+<attribute name="nrKolejki" sharing="PublishSubscribe" order="TimeStamp" transportation="HLAreliable" dimensions="NA" ownership="NoTransfer" updateCondition="NA" updateType="Conditional" dataType="HLAinteger32BE" semantics="NA"/>
+<attribute name="liczbaProduktow" sharing="PublishSubscribe" order="TimeStamp" transportation="HLAreliable" dimensions="NA" ownership="NoTransfer" updateCondition="NA" updateType="Conditional" dataType="HLAinteger32BE" semantics="NA"/>
+</objectClass>
+<objectClass name="Statystyki" sharing="PublishSubscribe" semantics="NA">
+<attribute name="srCzasOczekwaniaWKolejce" sharing="PublishSubscribe" order="TimeStamp" transportation="HLAreliable" dimensions="NA" ownership="NoTransfer" updateCondition="NA" updateType="Conditional" dataType="HLAfloat64BE" semantics="NA"/>
+<attribute name="srDlugoscKolejki" sharing="PublishSubscribe" order="TimeStamp" transportation="HLAreliable" dimensions="NA" ownership="NoTransfer" updateCondition="NA" updateType="Conditional" dataType="HLAfloat64BE" semantics="NA"/>
+<attribute name="nrKasy" sharing="PublishSubscribe" order="TimeStamp" transportation="HLAreliable" dimensions="NA" ownership="NoTransfer" updateCondition="NA" updateType="Conditional" dataType="HLAinteger32BE" semantics="NA"/>
+<attribute name="dlugoscKolejki" sharing="PublishSubscribe" order="TimeStamp" transportation="HLAreliable" dimensions="NA" ownership="NoTransfer" updateCondition="NA" updateType="Conditional" dataType="HLAinteger32BE" semantics="NA"/>
+<attribute name="czasOczekiwania" sharing="PublishSubscribe" order="TimeStamp" transportation="HLAreliable" dimensions="NA" ownership="NoTransfer" updateCondition="NA" updateType="Conditional" dataType="HLAfloat64BE" semantics="NA"/>
+</objectClass>
+</objectClass>
+</objects>
+<interactions>
+<interactionClass name="HLAinteractionRoot" sharing="PublishSubscribe" oreder="Receive" transportation="HLAreliable" dimensions="NA">
+<interactionClass name="liczbaKas" sharing="PublishSubscribe" oreder="Receive" transportation="HLAreliable" dimensions="NA">
+<parameter name="liczbaKas" dataType="HLAinteger32BE" semantics="NA"/>
+</interactionClass>
+<interactionClass name="koniecObslugi" sharing="PublishSubscribe" oreder="Receive" transportation="HLAreliable" dimensions="NA">
+<parameter name="numerKolejki" dataType="HLAinteger32BE" semantics="NA"/>
+</interactionClass>
+<interactionClass name="najkrotszaKolejka" sharing="PublishSubscribe" oreder="Receive" transportation="HLAreliable" dimensions="NA">
+<parameter name="numerKolejki" dataType="HLAinteger32BE" semantics="NA"/>
+</interactionClass>
+<interactionClass name="obslugaKlienta" sharing="PublishSubscribe" oreder="Receive" transportation="HLAreliable" dimensions="NA">
+<parameter name="numerKolejki" dataType="HLAinteger32BE" semantics="NA"/>
+<parameter name="liczbaProduktow" dataType="HLAinteger32BE" semantics="NA"/>
+</interactionClass>
+<interactionClass name="dlugoscKolejki" sharing="PublishSubscribe" oreder="Receive" transportation="HLAreliable" dimensions="NA">
+<parameter name="numerKolejki" dataType="HLAinteger32BE" semantics="NA"/>
+<parameter name="liczbaOsob" dataType="HLAinteger32BE" semantics="NA"/>
+</interactionClass>
+<interactionClass name="czasOczekiwania" sharing="PublishSubscribe" oreder="Receive" transportation="HLAreliable" dimensions="NA">
+<parameter name="numerKolejki" dataType="HLAinteger32BE" semantics="NA"/>
+<parameter name="czas" dataType="HLAfloat64BE" semantics="NA"/>
+</interactionClass>
+</interactionClass>
+</interactions>
+</objectModel>
